@@ -1,0 +1,1633 @@
+{
+  "24": [
+    "anosmie"
+  ],
+  "23": [
+    "antalgique"
+  ],
+  "27": [
+    "antibiotique"
+  ],
+  "28": [
+    "anticorps"
+  ],
+  "29": [
+    "antigène"
+  ],
+  "30": [
+    "antipyrétique",
+    "fébrifuge"
+  ],
+  "31": [
+    "ARV",
+    "antirétroviral"
+  ],
+  "34": [
+    "antiviral"
+  ],
+  "35": [
+    "apilimod"
+  ],
+  "36": [
+    "aplatir la courbe"
+  ],
+  "37": [
+    "aprémilast"
+  ],
+  "4": [
+    "ARN",
+    "RNA"
+  ],
+  "577": [
+    "ARN messager",
+    "ARNm"
+  ],
+  "41": [
+    "arythmie"
+  ],
+  "43": [
+    "ASC09F"
+  ],
+  "583": [
+    "assainissement"
+  ],
+  "626": [
+    "assistance vitale",
+    "maintien des fonctions vitales"
+  ],
+  "53": [
+    "asthénie"
+  ],
+  "44": [
+    "asymptomatique"
+  ],
+  "58": [
+    "atibuclimab"
+  ],
+  "59": [
+    "ATYR1923"
+  ],
+  "60": [
+    "auto-inflammation"
+  ],
+  "61": [
+    "auto-prélèvement"
+  ],
+  "62": [
+    "autorité de santé"
+  ],
+  "63": [
+    "aviptadil"
+  ],
+  "64": [
+    "azithromycine"
+  ],
+  "65": [
+    "bamlanivimab"
+  ],
+  "66": [
+    "baricitinib"
+  ],
+  "68": [
+    "bemcentinib"
+  ],
+  "69": [
+    "bévacizumab"
+  ],
+  "70": [
+    "bocéprévir"
+  ],
+  "74": [
+    "brensocatib"
+  ],
+  "75": [
+    "bréquinar"
+  ],
+  "76": [
+    "brincidofovir"
+  ],
+  "77": [
+    "bromhexine"
+  ],
+  "79": [
+    "bronche"
+  ],
+  "80": [
+    "bronchiole"
+  ],
+  "81": [
+    "bronchiolite"
+  ],
+  "78": [
+    "bronchodilatateur"
+  ],
+  "84": [
+    "budésonide"
+  ],
+  "299": [
+    "bulle",
+    "bulle sociale",
+    "groupe de bulles"
+  ],
+  "72": [
+    "bulle agrandie",
+    "bulle élargie"
+  ],
+  "73": [
+    "bulle de coexistence",
+    "bulle formée d’un seul ménage",
+    "groupe de coexistence stable"
+  ],
+  "105": [
+    "calotte"
+  ],
+  "87": [
+    "camostat"
+  ],
+  "88": [
+    "camrélizumab"
+  ],
+  "90": [
+    "canakinumab"
+  ],
+  "92": [
+    "capside"
+  ],
+  "98": [
+    "cas"
+  ],
+  "100": [
+    "cas abandonné",
+    "cas écarté"
+  ],
+  "99": [
+    "cas confirmé"
+  ],
+  "101": [
+    "cas index",
+    "patient zéro"
+  ],
+  "103": [
+    "cas suspect"
+  ],
+  "104": [
+    "casirivimab"
+  ],
+  "106": [
+    "cassette"
+  ],
+  "107": [
+    "CD24Fc"
+  ],
+  "393": [
+    "cellule à mémoire",
+    "lymphocyte mémoire",
+    "lymphocyte à mémoire"
+  ],
+  "392": [
+    "cellule B",
+    "lymphocyte B"
+  ],
+  "394": [
+    "cellule T",
+    "lymphocyte T"
+  ],
+  "112": [
+    "cenicriviroc"
+  ],
+  "109": [
+    "céphalalgie",
+    "céphalée",
+    "mal de tête"
+  ],
+  "86": [
+    "chaîne de transmission",
+    "chaîne épidémiologique"
+  ],
+  "660": [
+    "chamois anti-buée",
+    "chamoisine anti-buée"
+  ],
+  "95": [
+    "charge antigénique"
+  ],
+  "96": [
+    "charge virale"
+  ],
+  "544": [
+    "chauve-souris"
+  ],
+  "119": [
+    "chloroquine"
+  ],
+  "739": [
+    "choc"
+  ],
+  "638": [
+    "choc cytokinique",
+    "hypercytokinémie",
+    "orage cytokinique",
+    "tempête cytokinique"
+  ],
+  "113": [
+    "ciclésonide"
+  ],
+  "115": [
+    "civette"
+  ],
+  "116": [
+    "clazakizumab"
+  ],
+  "117": [
+    "clinique"
+  ],
+  "118": [
+    "clofazimine"
+  ],
+  "120": [
+    "coagulopathie"
+  ],
+  "123": [
+    "cobicistat"
+  ],
+  "126": [
+    "colchicine"
+  ],
+  "661": [
+    "Comirnaty",
+    "tozinaméran",
+    "vaccin Pfizer/BioNTech"
+  ],
+  "128": [
+    "comité de bioéthique"
+  ],
+  "129": [
+    "comorbidité"
+  ],
+  "132": [
+    "conestat alfa"
+  ],
+  "133": [
+    "confinement"
+  ],
+  "134": [
+    "confinement périmétrique"
+  ],
+  "135": [
+    "congestion nasale"
+  ],
+  "136": [
+    "conjonctivite"
+  ],
+  "137": [
+    "contact"
+  ],
+  "140": [
+    "contact direct",
+    "transmission directe"
+  ],
+  "138": [
+    "contact rapproché"
+  ],
+  "139": [
+    "contagion"
+  ],
+  "144": [
+    "contagiosité"
+  ],
+  "145": [
+    "contention"
+  ],
+  "146": [
+    "contrôle"
+  ],
+  "147": [
+    "convalescence"
+  ],
+  "692": [
+    "Convidecia",
+    "vaccin CanSino"
+  ],
+  "709": [
+    "CoronaVac",
+    "vaccin Sinovac"
+  ],
+  "152": [
+    "coronavirus"
+  ],
+  "155": [
+    "SARS-CoV",
+    "SRAS-CoV",
+    "coronavirus du syndrome respiratoire aigu sévère",
+    "virus du SRAS"
+  ],
+  "154": [
+    "MERS-CoV",
+    "coronavirus MERS-CoV"
+  ],
+  "153": [
+    "SARS-CoV-2",
+    "coronavirus SARS-CoV-2",
+    "virus de la COVID-19"
+  ],
+  "150": [
+    "courbe de contagion",
+    "courbe épidémiologique",
+    "courbe épidémique"
+  ],
+  "121": [
+    "couverture de vaccination",
+    "couverture vaccinale"
+  ],
+  "500": [
+    "couvre-chaussure"
+  ],
+  "655": [
+    "couvre-feu"
+  ],
+  "161": [
+    "COVID-19",
+    "maladie à coronavirus 2019"
+  ],
+  "163": [
+    "COVID-19 de longue durée",
+    "COVID-19 persistante",
+    "syndrome post-COVID-19"
+  ],
+  "165": [
+    "culture"
+  ],
+  "694": [
+    "CVnCoV",
+    "vaccin CureVac",
+    "zoréciméran"
+  ],
+  "114": [
+    "cytokine"
+  ],
+  "184": [
+    "D-dimère"
+  ],
+  "167": [
+    "danoprevir"
+  ],
+  "168": [
+    "darunavir"
+  ],
+  "169": [
+    "dazcapistat"
+  ],
+  "172": [
+    "déconfinement"
+  ],
+  "170": [
+    "défenses"
+  ],
+  "494": [
+    "dehydrodidemnine B",
+    "plitidepsine"
+  ],
+  "171": [
+    "délégué à la prévention | déléguée à la prévention"
+  ],
+  "164": [
+    "dépistage"
+  ],
+  "228": [
+    "Índex anglès effet indésirable",
+    "événement indésirable"
+  ],
+  "203": [
+    "efficacité vaccinale"
+  ],
+  "204": [
+    "efficience vaccinale"
+  ],
+  "205": [
+    "Spikevax",
+    "vaccin Moderna",
+    "élasoméran"
+  ],
+  "219": [
+    "ELISA",
+    "essai d’immuno-adsorption enzymatique",
+    "essai immuno-enzymatique",
+    "essai par immunoadsorbant lié à une enzyme",
+    "test ELISA"
+  ],
+  "192": [
+    "distanciation physique",
+    "distanciation sanitaire",
+    "distanciation sociale",
+    "éloignement de sécurité",
+    "éloignement physique",
+    "éloignement sanitaire",
+    "éloignement social"
+  ],
+  "207": [
+    "émapalumab"
+  ],
+  "209": [
+    "embolie pulmonaire"
+  ],
+  "212": [
+    "emtricitabine"
+  ],
+  "213": [
+    "emvododstat"
+  ],
+  "215": [
+    "endémie"
+  ],
+  "195": [
+    "deuil",
+    "endeuillement"
+  ],
+  "476": [
+    "engelure"
+  ],
+  "216": [
+    "énoxaparine"
+  ],
+  "217": [
+    "enpatoran"
+  ],
+  "218": [
+    "ensovibep"
+  ],
+  "208": [
+    "enveloppe",
+    "péplos"
+  ],
+  "223": [
+    "EPI",
+    "équipement de protection individuelle"
+  ],
+  "221": [
+    "épidémie"
+  ],
+  "222": [
+    "épidémiologie"
+  ],
+  "47": [
+    "épreuve en double aveugle",
+    "épreuve à double anonymat",
+    "épreuve à double insu"
+  ],
+  "48": [
+    "épreuve en triple aveugle",
+    "épreuve à triple anonymat",
+    "épreuve à triple insu"
+  ],
+  "526": [
+    "test sérologique",
+    "épreuve sérologique"
+  ],
+  "268": [
+    "fatigue",
+    "épuisement"
+  ],
+  "269": [
+    "épuisement mental"
+  ],
+  "225": [
+    "éradication"
+  ],
+  "320": [
+    "espèce hôte",
+    "hôte"
+  ],
+  "231": [
+    "espérance de vie"
+  ],
+  "232": [
+    "espérance de vie en bonne santé"
+  ],
+  "46": [
+    "essai en aveugle",
+    "essai à l’insu"
+  ],
+  "45": [
+    "ECR",
+    "essai clinique randomisé",
+    "essai clinique à répartition aléatoire",
+    "essai randomisé",
+    "essai à répartition aléatoire"
+  ],
+  "49": [
+    "essai clinique"
+  ],
+  "179": [
+    "dépistage précoce",
+    "détection précoce"
+  ],
+  "173": [
+    "désescalade"
+  ],
+  "176": [
+    "désinfectant -ante"
+  ],
+  "609": [
+    "SDRA",
+    "détresse respiratoire de l’adulte",
+    "syndrome de détresse respiratoire",
+    "syndrome de détresse respiratoire aiguë",
+    "syndrome de détresse respiratoire de l’adulte"
+  ],
+  "610": [
+    "dysplasie alvéolaire congénitale",
+    "détresse respiratoire néonatale",
+    "syndrome de détresse respiratoire du nouveau-né"
+  ],
+  "180": [
+    "dexaméthasone"
+  ],
+  "182": [
+    "diagnose",
+    "diagnostic"
+  ],
+  "183": [
+    "diarrhée"
+  ],
+  "190": [
+    "distance de sécurité",
+    "distance physique",
+    "distance sanitaire",
+    "distance sociale"
+  ],
+  "3": [
+    "DNA"
+  ],
+  "197": [
+    "dose de rappel",
+    "dose de réactivation",
+    "Índex anglès injection de rappel"
+  ],
+  "252": [
+    "dossier de réglementation de l’emploi temporaire"
+  ],
+  "318": [
+    "dossier du patient",
+    "dossier médical"
+  ],
+  "196": [
+    "douleur au thorax",
+    "douleur thoracique"
+  ],
+  "186": [
+    "dysphonie"
+  ],
+  "188": [
+    "dyspnée"
+  ],
+  "434": [
+    "échantillon nasopharyngé"
+  ],
+  "435": [
+    "échantillon oropharyngé"
+  ],
+  "259": [
+    "échec vaccinal"
+  ],
+  "260": [
+    "échec vaccinal primaire"
+  ],
+  "261": [
+    "échec vaccinal secondaire"
+  ],
+  "227": [
+    "écouvillon"
+  ],
+  "465": [
+    "visière de protection",
+    "visière médicale",
+    "écran facial"
+  ],
+  "199": [
+    "éculizumab"
+  ],
+  "200": [
+    "eczéma"
+  ],
+  "202": [
+    "effectivité vaccinale"
+  ],
+  "282": [
+    "frottis"
+  ],
+  "283": [
+    "galidésivir"
+  ],
+  "284": [
+    "Gam-COVID-Vac",
+    "Sputnik V",
+    "vaccin Gamaleya"
+  ],
+  "304": [
+    "gant"
+  ],
+  "289": [
+    "gel antibactérien",
+    "gel antiseptique",
+    "gel désinfectant",
+    "gel hydroalcoolique"
+  ],
+  "291": [
+    "génome"
+  ],
+  "292": [
+    "gimsilumab"
+  ],
+  "293": [
+    "goflikicept"
+  ],
+  "296": [
+    "gouttelette de Flügge"
+  ],
+  "298": [
+    "fort, forte",
+    "grave",
+    "intense"
+  ],
+  "303": [
+    "groupe exposé",
+    "groupe à risque"
+  ],
+  "497": [
+    "groupe cible",
+    "population cible"
+  ],
+  "125": [
+    "groupe vulnérable à risque"
+  ],
+  "305": [
+    "hémogramme"
+  ],
+  "306": [
+    "héparine"
+  ],
+  "307": [
+    "hépatotoxicité"
+  ],
+  "368": [
+    "hospitalisme infectieux",
+    "infection nosocomiale"
+  ],
+  "321": [
+    "hôte intermédiaire"
+  ],
+  "308": [
+    "hydroxychloroquine"
+  ],
+  "309": [
+    "hygiène"
+  ],
+  "310": [
+    "hygiène des mains"
+  ],
+  "313": [
+    "hypogueusie"
+  ],
+  "314": [
+    "hypoosmie",
+    "hyposmie"
+  ],
+  "316": [
+    "hypoxémie"
+  ],
+  "317": [
+    "hypoxie"
+  ],
+  "377": [
+    "IA",
+    "intelligence artificielle"
+  ],
+  "324": [
+    "ibuprofène"
+  ],
+  "363": [
+    "IC",
+    "incidence cumulée"
+  ],
+  "325": [
+    "icatibant"
+  ],
+  "375": [
+    "IEC",
+    "IECA",
+    "inhibiteur de l’enzyme de conversion de l’angiotensine"
+  ],
+  "51": [
+    "essai communautaire"
+  ],
+  "248": [
+    "essai préclinique",
+    "étude préclinique"
+  ],
+  "236": [
+    "état d’alarme"
+  ],
+  "249": [
+    "étésévimab"
+  ],
+  "405": [
+    "étourdissement"
+  ],
+  "237": [
+    "étude clinique"
+  ],
+  "242": [
+    "phase 0",
+    "étude de phase 0"
+  ],
+  "243": [
+    "phase I",
+    "étude de phase I"
+  ],
+  "244": [
+    "phase II",
+    "étude de phase II"
+  ],
+  "245": [
+    "phase III",
+    "étude de phase III"
+  ],
+  "246": [
+    "phase IV",
+    "étude de phase IV"
+  ],
+  "250": [
+    "excès de mortalité",
+    "excès de morts"
+  ],
+  "483": [
+    "expertise médicale"
+  ],
+  "253": [
+    "exsudat"
+  ],
+  "256": [
+    "extubation"
+  ],
+  "257": [
+    "facteur de risque"
+  ],
+  "270": [
+    "fatigue pandémique"
+  ],
+  "262": [
+    "faux négatif"
+  ],
+  "263": [
+    "faux positif"
+  ],
+  "271": [
+    "favipiravir"
+  ],
+  "273": [
+    "fébricule"
+  ],
+  "274": [
+    "fénofibrate"
+  ],
+  "275": [
+    "ferritine"
+  ],
+  "276": [
+    "fibrinogène"
+  ],
+  "277": [
+    "fibrose"
+  ],
+  "272": [
+    "fièvre"
+  ],
+  "278": [
+    "fingolimod"
+  ],
+  "376": [
+    "insomnie"
+  ],
+  "569": [
+    "insufflateur",
+    "respirateur"
+  ],
+  "378": [
+    "interféron"
+  ],
+  "379": [
+    "interféron bêta"
+  ],
+  "380": [
+    "intubation"
+  ],
+  "16": [
+    "isolat",
+    "isolat de virus",
+    "isolat viral"
+  ],
+  "14": [
+    "isolement"
+  ],
+  "383": [
+    "justice distributive"
+  ],
+  "384": [
+    "LDH",
+    "lactate-déshydrogénase",
+    "lacticodéshydrogénase"
+  ],
+  "385": [
+    "lanadélumab"
+  ],
+  "386": [
+    "latence"
+  ],
+  "388": [
+    "lenzilumab"
+  ],
+  "389": [
+    "léronlimab"
+  ],
+  "398": [
+    "lopinavir"
+  ],
+  "391": [
+    "lymphocyte"
+  ],
+  "396": [
+    "lymphocytopénie",
+    "lymphopénie"
+  ],
+  "399": [
+    "macrophage"
+  ],
+  "264": [
+    "manque de concentration"
+  ],
+  "404": [
+    "marqueur inflammatoire"
+  ],
+  "407": [
+    "masque, 406"
+  ],
+  "409": [
+    "masque EPI",
+    "masque FFP",
+    "masque autofiltrant",
+    "masque avec filtre à particules"
+  ],
+  "413": [
+    "masque chirurgical",
+    "masque médical"
+  ],
+  "327": [
+    "imdévimab"
+  ],
+  "328": [
+    "immun -une"
+  ],
+  "349": [
+    "immunisation"
+  ],
+  "330": [
+    "immunitaire"
+  ],
+  "331": [
+    "immunité"
+  ],
+  "333": [
+    "immunité acquise",
+    "immunité adaptative",
+    "immunité spécifique"
+  ],
+  "332": [
+    "immunité active"
+  ],
+  "338": [
+    "immunité collective",
+    "immunité de groupe"
+  ],
+  "347": [
+    "immunité innée",
+    "immunité naturelle",
+    "immunité non spécifique"
+  ],
+  "340": [
+    "immunité spécifique artificielle"
+  ],
+  "343": [
+    "immunité spécifique naturelle"
+  ],
+  "345": [
+    "immunité spécifique passive"
+  ],
+  "351": [
+    "immunochromatographie"
+  ],
+  "352": [
+    "immunogène",
+    "immunogénique"
+  ],
+  "353": [
+    "immunogénicité"
+  ],
+  "354": [
+    "immunoglobuline"
+  ],
+  "355": [
+    "immunoglobuline G"
+  ],
+  "356": [
+    "immunoglobuline M"
+  ],
+  "358": [
+    "immunologique"
+  ],
+  "359": [
+    "incapacité, 185"
+  ],
+  "360": [
+    "incapacité permanente"
+  ],
+  "361": [
+    "incapacité temporaire"
+  ],
+  "362": [
+    "incidence"
+  ],
+  "364": [
+    "incubation"
+  ],
+  "367": [
+    "infection"
+  ],
+  "370": [
+    "infection par gouttelettes"
+  ],
+  "371": [
+    "infectologie"
+  ],
+  "372": [
+    "infiltré"
+  ],
+  "373": [
+    "inflammation"
+  ],
+  "374": [
+    "infodémie"
+  ],
+  "464": [
+    "pangolin"
+  ],
+  "466": [
+    "parasite"
+  ],
+  "468": [
+    "passeport d’immunité",
+    "passeport immunitaire",
+    "passeport immunologique"
+  ],
+  "470": [
+    "pathogène"
+  ],
+  "471": [
+    "pathogénicité"
+  ],
+  "550": [
+    "PCR",
+    "réaction de polymérisation en chaîne",
+    "réaction en chaîne de la polymérase"
+  ],
+  "475": [
+    "pemziviptadil"
+  ],
+  "233": [
+    "péplomère",
+    "spicule"
+  ],
+  "478": [
+    "période de latence",
+    "période d’incubation"
+  ],
+  "479": [
+    "période d’infection"
+  ],
+  "486": [
+    "personne sensible au COVID-19",
+    "personne vulnérable au COVID-19",
+    "personne à risque du COVID-19"
+  ],
+  "546": [
+    "petit rhinolophe"
+  ],
+  "258": [
+    "phagocytose"
+  ],
+  "266": [
+    "phase d’atténuation"
+  ],
+  "265": [
+    "phase de confinement"
+  ],
+  "490": [
+    "pic épidémique"
+  ],
+  "678": [
+    "pinces nasales"
+  ],
+  "493": [
+    "placebo"
+  ],
+  "533": [
+    "mettre en quarantaine",
+    "placer en quarantaine",
+    "quarantainer"
+  ],
+  "492": [
+    "plan de contingence pour la COVID-19"
+  ],
+  "495": [
+    "pneumonie"
+  ],
+  "529": [
+    "point d’injection",
+    "point d’inoculation",
+    "site d’injection"
+  ],
+  "519": [
+    "poolage",
+    "regroupement d’échantillons",
+    "test de groupage d’échantillons"
+  ],
+  "499": [
+    "population sentinelle"
+  ],
+  "83": [
+    "poussée épidémique"
+  ],
+  "411": [
+    "masque hygiénique"
+  ],
+  "281": [
+    "matière contaminée",
+    "réceptacle de germes infectieux",
+    "vecteur passif",
+    "véhicule dispersant d’agents pathogènes"
+  ],
+  "420": [
+    "médecine évaluatrice"
+  ],
+  "418": [
+    "MEDI 3506"
+  ],
+  "419": [
+    "médicaliser"
+  ],
+  "421": [
+    "mémoire immunologique"
+  ],
+  "422": [
+    "meplazumab"
+  ],
+  "613": [
+    "MERS",
+    "SRMO",
+    "syndrome respiratoire du Moyen-Orient"
+  ],
+  "425": [
+    "mesure de confinement"
+  ],
+  "426": [
+    "méthylprednisolone"
+  ],
+  "428": [
+    "molnupiravir"
+  ],
+  "429": [
+    "monitorage"
+  ],
+  "430": [
+    "montélukast"
+  ],
+  "431": [
+    "mort digne"
+  ],
+  "432": [
+    "mortalité"
+  ],
+  "438": [
+    "mupadolimab"
+  ],
+  "441": [
+    "mutation"
+  ],
+  "427": [
+    "myalgie"
+  ],
+  "442": [
+    "nafamostat"
+  ],
+  "443": [
+    "nausée"
+  ],
+  "445": [
+    "nébulisateur",
+    "nébuliseur"
+  ],
+  "444": [
+    "nébulisation"
+  ],
+  "506": [
+    "non-malfaisance",
+    "principe de non-malfaisance"
+  ],
+  "554": [
+    "nouvelle flambée épidémique"
+  ],
+  "448": [
+    "nouvelle normalité"
+  ],
+  "449": [
+    "NVX-CoV2373",
+    "vaccin NovaVax"
+  ],
+  "457": [
+    "OMS",
+    "Organisation Mondiale de la Santé"
+  ],
+  "455": [
+    "OP-101"
+  ],
+  "456": [
+    "opaganib"
+  ],
+  "458": [
+    "oseltamivir"
+  ],
+  "459": [
+    "otilimab"
+  ],
+  "460": [
+    "oxygénation"
+  ],
+  "461": [
+    "oxygénothérapie"
+  ],
+  "463": [
+    "pandémie"
+  ],
+  "568": [
+    "respiration artificielle"
+  ],
+  "571": [
+    "rétrovirus"
+  ],
+  "573": [
+    "revaccination"
+  ],
+  "574": [
+    "ribavirine"
+  ],
+  "575": [
+    "ritonavir"
+  ],
+  "578": [
+    "ruxolitinib"
+  ],
+  "234": [
+    "saisonnalité"
+  ],
+  "580": [
+    "santé au travail"
+  ],
+  "582": [
+    "santé publique"
+  ],
+  "584": [
+    "sarilumab"
+  ],
+  "612": [
+    "SARS",
+    "SRAG",
+    "SRAS",
+    "syndrome respiratoire aigu grave",
+    "syndrome respiratoire aigu sévère"
+  ],
+  "579": [
+    "saut d’espèce"
+  ],
+  "472": [
+    "schéma de vaccination",
+    "schéma vaccinal"
+  ],
+  "589": [
+    "sédation"
+  ],
+  "590": [
+    "selinexor"
+  ],
+  "605": [
+    "sémiologie",
+    "séméiologie"
+  ],
+  "592": [
+    "sepsie"
+  ],
+  "593": [
+    "séquelle"
+  ],
+  "594": [
+    "sérologie"
+  ],
+  "595": [
+    "séroprévalence"
+  ],
+  "596": [
+    "sérothérapie"
+  ],
+  "597": [
+    "sérotype",
+    "sérovar",
+    "type sérologique"
+  ],
+  "601": [
+    "service de prévention"
+  ],
+  "602": [
+    "signe"
+  ],
+  "603": [
+    "siltuximab"
+  ],
+  "614": [
+    "rapamycine",
+    "sirolimus"
+  ],
+  "616": [
+    "socialisation"
+  ],
+  "55": [
+    "soins à domicile"
+  ],
+  "56": [
+    "soins d’attention hospitalière"
+  ],
+  "57": [
+    "soins de santé primaires"
+  ],
+  "617": [
+    "sonde",
+    "sonde moléculaire"
+  ],
+  "502": [
+    "prednisolone"
+  ],
+  "503": [
+    "prévalence"
+  ],
+  "504": [
+    "primovaccination",
+    "vaccination primaire"
+  ],
+  "505": [
+    "principe de bienfaisance"
+  ],
+  "507": [
+    "principe de précaution"
+  ],
+  "508": [
+    "priorisation"
+  ],
+  "509": [
+    "prodrome"
+  ],
+  "511": [
+    "protéine C réactive"
+  ],
+  "515": [
+    "protéine S",
+    "protéine spike"
+  ],
+  "514": [
+    "protéine structurale"
+  ],
+  "531": [
+    "qualité de vie"
+  ],
+  "532": [
+    "quarantaine"
+  ],
+  "534": [
+    "quarantainé -née"
+  ],
+  "537": [
+    "radiographie"
+  ],
+  "538": [
+    "radiomique"
+  ],
+  "548": [
+    "ravulizumab"
+  ],
+  "551": [
+    "réaction générale",
+    "réaction systémique"
+  ],
+  "549": [
+    "réaction indésirable à un vaccin"
+  ],
+  "552": [
+    "réaction locale"
+  ],
+  "541": [
+    "recherche de contacts",
+    "traçage des contacts"
+  ],
+  "556": [
+    "rechute"
+  ],
+  "559": [
+    "récidive"
+  ],
+  "560": [
+    "recrudescence"
+  ],
+  "562": [
+    "rééducation respiratoire"
+  ],
+  "446": [
+    "refus de traitement"
+  ],
+  "561": [
+    "regdanvimab"
+  ],
+  "13": [
+    "regroupement"
+  ],
+  "563": [
+    "réinfection"
+  ],
+  "564": [
+    "remdésivir"
+  ],
+  "570": [
+    "réponse immunitaire"
+  ],
+  "567": [
+    "réservoir"
+  ],
+  "521": [
+    "test PCR",
+    "test diagnostique par PCR"
+  ],
+  "525": [
+    "test rapide",
+    "test rapide immunochromatographique"
+  ],
+  "652": [
+    "testage massif"
+  ],
+  "628": [
+    "thalidomide"
+  ],
+  "54": [
+    "thérapie de deuil"
+  ],
+  "674": [
+    "thrombose"
+  ],
+  "673": [
+    "thrombus"
+  ],
+  "653": [
+    "titre d’anticorps"
+  ],
+  "654": [
+    "tixagévimab"
+  ],
+  "656": [
+    "tocilizumab"
+  ],
+  "657": [
+    "toux"
+  ],
+  "658": [
+    "toux productive"
+  ],
+  "659": [
+    "toux sèche"
+  ],
+  "662": [
+    "traçabilité"
+  ],
+  "542": [
+    "traceur de contacts | traceuse de contacts"
+  ],
+  "670": [
+    "trachéotomie"
+  ],
+  "664": [
+    "traitement ambulatoire"
+  ],
+  "665": [
+    "transmissible"
+  ],
+  "666": [
+    "transmission"
+  ],
+  "667": [
+    "transmission communautaire"
+  ],
+  "668": [
+    "transmission horizontale"
+  ],
+  "142": [
+    "transmission indirecte"
+  ],
+  "669": [
+    "transmission verticale"
+  ],
+  "637": [
+    "travail à distance",
+    "télétravail"
+  ],
+  "672": [
+    "triage"
+  ],
+  "676": [
+    "TRV027"
+  ],
+  "679": [
+    "umifénovir"
+  ],
+  "680": [
+    "USI",
+    "unité de soins intensifs"
+  ],
+  "210": [
+    "urgence sanitaire"
+  ],
+  "682": [
+    "urticaire"
+  ],
+  "683": [
+    "usage compassionnel"
+  ],
+  "18": [
+    "sortie"
+  ],
+  "619": [
+    "sotrovimab"
+  ],
+  "615": [
+    "souche"
+  ],
+  "623": [
+    "subasumstat"
+  ],
+  "624": [
+    "super-propagateur -atrice"
+  ],
+  "627": [
+    "susceptible"
+  ],
+  "604": [
+    "symptôme"
+  ],
+  "607": [
+    "syndémie"
+  ],
+  "630": [
+    "tachycardie"
+  ],
+  "633": [
+    "taux de contagion"
+  ],
+  "635": [
+    "taux de létalité, 634",
+    "taux de mortalité"
+  ],
+  "721": [
+    "taux de reproduction de base"
+  ],
+  "722": [
+    "taux de reproduction effectif",
+    "taux de reproduction net"
+  ],
+  "636": [
+    "télémédecine"
+  ],
+  "640": [
+    "temps de Quick",
+    "temps de prothrombine"
+  ],
+  "642": [
+    "temps de récupération"
+  ],
+  "643": [
+    "ténofovir"
+  ],
+  "517": [
+    "test antigénique"
+  ],
+  "644": [
+    "test d’anticorps"
+  ],
+  "454": [
+    "vague",
+    "vague épidémiologique",
+    "vague épidémique"
+  ],
+  "715": [
+    "variant",
+    "variant viral"
+  ],
+  "716": [
+    "VOI",
+    "variant d’intérêt",
+    "variant à suivre"
+  ],
+  "718": [
+    "VOC",
+    "variant préoccupant"
+  ],
+  "690": [
+    "Vaxzevria",
+    "vaccin AstraZeneca",
+    "vaccin Oxford-AstraZeneca"
+  ],
+  "724": [
+    "ventilation"
+  ],
+  "727": [
+    "vidofludimus"
+  ],
+  "729": [
+    "virion"
+  ],
+  "728": [
+    "virocide",
+    "virucide"
+  ],
+  "730": [
+    "virulence"
+  ],
+  "731": [
+    "virus"
+  ],
+  "726": [
+    "voie d’administration"
+  ],
+  "737": [
+    "vomissement"
+  ],
+  "738": [
+    "vorapaxar"
+  ],
+  "740": [
+    "zilucoplan"
+  ],
+  "741": [
+    "zoonose"
+  ],
+  "742": [
+    "zoonotique"
+  ],
+  "687": [
+    "vaccin"
+  ],
+  "698": [
+    "vaccin à ARN messager",
+    "vaccin à ARNm",
+    "vaccin à acide ribonucléique messager"
+  ],
+  "711": [
+    "vaccin antiviral",
+    "vaccin viral"
+  ],
+  "691": [
+    "vaccin BBIBP-CorV"
+  ],
+  "688": [
+    "vaccin contre la COVID-19"
+  ],
+  "710": [
+    "vaccin VeroCell",
+    "vaccin de Wuhan"
+  ],
+  "701": [
+    "vaccin Janssen",
+    "vaccin Johnson & Johnson"
+  ],
+  "707": [
+    "vaccin prophylactique",
+    "vaccin préventif"
+  ],
+  "712": [
+    "vaccination"
+  ],
+  "714": [
+    "vafidemstat"
+  ]
+}

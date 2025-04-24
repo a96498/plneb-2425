@@ -1,0 +1,121 @@
+símptoma, 604
+simptomatologia, 605
+sincropèxia, 606
+síndrome del destret respiratori agut, 608
+síndrome del destret respiratori de l’adult, 609
+síndrome del destret respiratori del nadó, 610
+síndrome post COVID-19, 611
+síndrome respiratòria aguda greu, 612
+síndrome respiratòria de l’Orient Mitjà, 613
+SRAG, 622
+tapament, 629
+taquicàrdia, 630
+taquisistòlia, 631
+tos, 657
+tos productiva, 658
+tos seca, 659
+traqueotomia, 670
+trombe, 673
+trombosi, 674
+trombus, 675
+urticària, 682
+vòmit, 737
+xoc, 739
+ofec, 451
+penelló, 476
+pernió, 484
+perniosi, 485
+picnocàrdia, 491
+pneumònia, 495
+pneumònia d’aspiració congènita, 496
+policàrdia, 501
+pròdrom, 509
+pulmó de xoc, 527
+pulmonia, 528
+reacció general, 551
+reacció local, 552
+reacció sistèmica, 553
+recaiguda, 556
+recidiva, 559
+recrudescència, 560
+reinfecció, 563
+SARS, 585
+SDRA, 588
+semiologia, 591
+sèpsia, 592
+seqüela, 593
+signe, 602
+Índex temàtic català guant, 304
+higiene, 309
+higiene de mans, 310
+immunització activa, 350
+màscara, 406
+màscara amb filtre de partícules, 408
+màscara autofiltrant, 409
+màscara FFP, 410
+màscara higiènica, 411
+màscara mèdica, 412
+màscara quirúrgica, 413
+mascareta, 414
+mascareta higiènica, 416
+mascareta quirúrgica, 417
+mesura de contenció, 425
+NVX-CoV2373, 449
+pantalla facial, 465
+pauta de vacunació, 472
+pauta vacunal, 473
+polaina, 500
+primovacunació, 504
+profilàctica, 510
+quarantena, 532
+quarantenar, 533
+quarantenat -ada, 534
+RAV, 547
+reacció adversa a vacuna, 549
+rentada de mans, 565
+rentat de mans, 566
+revaccinació, 572
+revacunació, 573
+Spikevax, 620
+Sputnik V, 621
+tovalloleta antibaf, 660
+tozinameran, 661
+vaccí, 685
+vaccinació, 686
+Ad5-nCoV, 5
+aïllament, 14
+camussa antibaf, 89
+careta, 93
+càrrega antigènica, 95
+casquet, 105
+cobertura de vacunació, 121
+cobertura vacunal, 122
+Comirnaty, 127
+confinament, 133
+confinament perimetral, 134
+contenció, 145
+Convidecia, 148
+CoronaVac, 151
+CVnCoV, 166
+desinfectant, 176
+distància de seguretat, 190
+distància física, 191
+distanciament de seguretat, 192
+distanciament físic, 193
+dosi de record, 197
+dosi de reforç, 198
+efectivitat vacunal, 202
+eficàcia vacunal, 203
+eficiència vacunal, 204
+elasomeran, 205
+EPI, 220
+equip de protecció individual, 223
+equip de protecció personal, 224
+fallada vacunal, 259
+fallada vacunal primària, 260
+fallada vacunal secundària, 261
+Gam-COVID-Vac, 284
+gel antisèptic, 287
+gel desinfectant, 288
+gel hidroalcohòlic, 289
+gel higienitzant, 290

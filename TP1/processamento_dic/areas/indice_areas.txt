@@ -1,0 +1,726 @@
+183
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+agrupament, 13
+aplanar la corba, 36
+bombolla, 71
+bombolla ampliada, 72
+bombolla de convivència, 73
+brot epidèmic, 83
+cadena de transmissió, 85
+cadena epidemiològica, 86
+cas, 98
+cas confirmat, 99
+cas descartat, 100
+cas índex, 101
+cas possible, 102
+cas sospitós, 103
+col·lectiu vulnerable de risc, 125
+contacte, 137
+contacte estret, 138
+control, 146
+corba de contagis, 149
+corba epidèmica, 150
+desconfinament, 172
+desescalada, 173
+desescalament, 174
+emergència sanitària, 210
+endèmia, 215
+epidèmia, 221
+epidemiologia, 222
+erradicació, 225
+estacionalitat, 234
+estadi d’incubació, 235
+excés de mortalitat, 250
+excés de morts, 251
+factor de risc, 257
+fase de contenció, 265
+fase de mitigació, 266
+fòmit, 281
+GCE, 286
+grup bombolla, 299
+grup de convivència, 300
+grup de convivència ampliada, 301
+grup de convivència estable, 302
+grup de risc, 303
+IA, 323
+immunitat col·lectiva, 335
+immunitat de comunitat, 337
+immunitat de grup, 338
+incidència, 362
+incidència acumulada, 363
+incubació, 364
+índex de letalitat, 365
+índex de mortalitat, 366
+latència, 386
+memòria immunitària, 421
+mortalitat, 432
+nombre reproductiu bàsic, 447
+OMS, 452
+onada, 453
+onada epidèmica, 454
+Organització Mundial de la Salut, 457
+pacient zero, 462
+pandèmia, 463
+passaport d’immunitat, 467
+passaport immunitari, 468
+passaport immunològic, 469
+període d’incubació, 478
+període d’infecció, 479
+període de latència, 480
+període de reacció, 481
+període latent, 482
+pic de contagis, 489
+pic epidèmic, 490
+població diana, 497
+població objectiu, 498
+població sentinella, 499
+Epidemiologia
+184
+taxa bruta de mortalitat, 632
+taxa de contagi, 633
+taxa de letalitat, 634
+taxa de mortalitat, 635
+traçabilitat, 662
+transmissible, 665
+transmissió comunitària, 667
+transmissió horitzontal, 668
+transmissió vertical, 669
+velocitat reproductiva bàsica, 721
+velocitat reproductiva efectiva, 722
+velocitat reproductiva empírica, 723
+prevalença, 503
+rastreig de contactes, 541
+rastrejador de contactes | rastrejadora de contactes, 542
+rebrot epidèmic, 554
+rebrotada epidèmica, 555
+recerca de contactes, 558
+salut pública, 582
+seroprevalença, 595
+sindèmia, 607
+supercontagiador -a, 624
+superpropagador -a, 625
+susceptible, 627
+Índex temàtic català
+185
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+àcid desoxiribonucleic, 3
+àcid ribonucleic, 4
+ADN, 9
+aerosol, 10
+agent biològic, 11
+aïllat, 15
+aïllat víric, 16
+anticòs, 28
+antigen, 29
+ARN, 38
+ARN missatger, 39
+ARNm, 40
+càpsida, 92
+civeta, 115
+coronavirus, 152
+coronavirus 2 de la síndrome respiratòria aguda
+greu, 153
+coronavirus associat a la MERS, 154
+coronavirus associat a la SARS, 155
+coronavirus de la COVID-19, 156
+coronavirus de la MERS, 157
+coronavirus de la SARS, 158
+DNA, 194
+embolcall, 208
+espícula, 233
+fagocitosi, 258
+gat d’algàlia, 285
+genoma, 291
+gota de Flügge, 294
+goteta, 295
+goteta respiratòria, 296
+gotícula respiratòria, 297
+hostatger, 319
+hoste, 320
+hoste intermediari, 321
+inflamació, 373
+interferó, 378
+MERS-CoV, 424
+mRNA, 437
+muriac, 439
+muricec, 440
+mutació, 441
+pangolí, 464
+paràsit, 466
+patogen -ògena, 470
+patogenicitat, 471
+peplòmer, 477
+proteïna de l’espícula, 512
+proteïna espícula, 513
+proteïna estructural, 514
+proteïna S, 515
+ratapenada, 543
+ratapinyada, 544
+ratpenat, 545
+ratpenat de ferradura petit, 546
+reservori, 567
+resposta immunitària, 570
+retrovirus, 571
+RNA, 576
+RNA missatger, 577
+salt d’espècie, 579
+SARS-CoV, 586
+SARS-CoV-2, 587
+serotip, 597
+serotipus, 598
+serovar, 599
+soca, 615
+transmissió, 666
+variant, 715
+variant d’interès, 716
+variant de preocupació, 717
+variant preocupant, 718
+variant vírica, 719
+virió, 729
+Etiopatogènia
+186
+VOI, 735
+voliac, 736
+zoonosi, 741
+zoonòtic -a, 742
+virulència, 730
+virus, 731
+virus de la COVID-19, 732
+VOC, 734
+Índex temàtic català
+187
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+marcador inflamatori, 404
+mostra bucofaríngia, 433
+mostra nasofaríngia, 434
+mostra orofaríngia, 435
+mostra rinofaríngia, 436
+PCR, 474
+proteïna C reactiva, 511
+prova antigènica, 516
+prova d’antígens, 517
+prova de mostres agrupades, 518
+prova de mostres combinades, 519
+prova diagnòstica amb ELISA, 520
+prova diagnòstica amb PCR, 521
+prova diagnòstica ràpida, 522
+prova immunològica, 523
+prova PCR, 524
+prova ràpida, 525
+prova serològica, 526
+RAC, 536
+radiografia, 537
+radiòmica, 538
+raspallet, 540
+reacció en cadena per la polimerasa, 550
+recepció, acollida i classificació, 557
+serologia, 594
+sonda, 617
+sonda molecular, 618
+temps de protrombina, 640
+temps de Quick, 641
+test d’anticossos, 644
+test d’antígens, 645
+test immunològic, 646
+test PCR, 647
+test per agrupament de mostres, 648
+test per combinació de mostres, 649
+test ràpid, 650
+test serològic, 651
+automostra, 61
+bastonet, 67
+càrrega viral, 96
+càrrega vírica, 97
+casset, 106
+compte hemàtic, 130
+cribratge, 164
+cultiu, 165
+detecció precoç, 179
+diagnosi, 181
+diagnòstic, 182
+dímer-D, 184
+ELISA, 206
+encebador, 214
+enzimoimmunoassaig sobre fase sòlida, 219
+escovilló, 227
+exsudat bucofaringi, 254
+exsudat nasofaringi, 255
+fals negatiu, 262
+fals positiu, 263
+ferritina, 275
+fibrinogen, 276
+fluid bucofaringi, 279
+fluid nasofaringi, 280
+frotis, 282
+hemograma, 305
+història clínica, 318
+IA, 323
+immunocromatografia, 351
+immunoglobulina, 354
+immunoglobulina G, 355
+immunoglobulina M, 356
+intel·ligència artificial, 377
+lactat-deshidrogenasa, 384
+LDH, 387
+limfocitopènia, 395
+limfopènia, 396
+Diagnòstic
+188
+testatge massiu, 652
+títol d’anticossos, 653
+triatge, 672
+Índex temàtic català
+189
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+èczema, 200
+embòlia pulmonar, 209
+èmesi, 211
+esgotament, 229
+esgotament mental, 230
+exsudat, 253
+falta de concentració, 264
+fatiga, 268
+fatiga mental, 269
+fatiga pandèmica, 270
+febre, 272
+febrícula, 273
+fibrosi, 277
+greu, 298
+hepatotoxicitat, 307
+hipoestèsia gustativa, 311
+hipoestèsia olfactòria, 312
+hipogèusia, 313
+hipoòsmia, 314
+hipòsmia, 315
+hipoxèmia, 316
+hipòxia, 317
+infecció, 367
+infecció hospitalària, 368
+infecció nosocomial, 369
+infecció per gotetes, 370
+infectologia, 371
+infiltrat, 372
+insomni, 376
+mal de cap, 400
+mal de costat, 401
+mal de pit, 402
+malaltia del coronavirus 2019, 403
+mareig, 405
+MERS, 423
+miàlgia, 427
+nàusea, 443
+agèusia, 12
+anòsmia, 24
+ansietat anticipatòria, 25
+arrítmia, 41
+asimptomàtic -a, 44
+astènia, 53
+autoinflamació, 60
+bronqui, 79
+bronquíol, 80
+bronquiolitis, 81
+bronquitis capil·lar, 82
+cefalàlgia, 108
+cefalea, 109
+clínica, 117
+coagulopatia, 120
+col·lapse cardiocirculatori, 124
+comorbiditat, 129
+congestió nasal, 135
+conjuntivitis, 136
+contagi, 139
+contagi directe, 140
+contagi immediat, 141
+contagi indirecte, 142
+contagi mediat, 143
+contagiositat, 144
+covid, 159
+covid-19, 160
+COVID-19, 161
+covid persistent, 162
+COVID-19 persistent, 163
+destret respiratori de l’adult, 177
+destret respiratori del nadó, 178
+diarrea, 183
+disfonia, 186
+displàsia alveolar congènita, 187
+dispnea, 188
+dolor toràcic, 196
+Clínica
+190
+símptoma, 604
+simptomatologia, 605
+sincropèxia, 606
+síndrome del destret respiratori agut, 608
+síndrome del destret respiratori de l’adult, 609
+síndrome del destret respiratori del nadó, 610
+síndrome post COVID-19, 611
+síndrome respiratòria aguda greu, 612
+síndrome respiratòria de l’Orient Mitjà, 613
+SRAG, 622
+tapament, 629
+taquicàrdia, 630
+taquisistòlia, 631
+tos, 657
+tos productiva, 658
+tos seca, 659
+traqueotomia, 670
+trombe, 673
+trombosi, 674
+trombus, 675
+urticària, 682
+vòmit, 737
+xoc, 739
+ofec, 451
+penelló, 476
+pernió, 484
+perniosi, 485
+picnocàrdia, 491
+pneumònia, 495
+pneumònia d’aspiració congènita, 496
+policàrdia, 501
+pròdrom, 509
+pulmó de xoc, 527
+pulmonia, 528
+reacció general, 551
+reacció local, 552
+reacció sistèmica, 553
+recaiguda, 556
+recidiva, 559
+recrudescència, 560
+reinfecció, 563
+SARS, 585
+SDRA, 588
+semiologia, 591
+sèpsia, 592
+seqüela, 593
+signe, 602
+Índex temàtic català
+191
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+guant, 304
+higiene, 309
+higiene de mans, 310
+immunització activa, 350
+màscara, 406
+màscara amb filtre de partícules, 408
+màscara autofiltrant, 409
+màscara FFP, 410
+màscara higiènica, 411
+màscara mèdica, 412
+màscara quirúrgica, 413
+mascareta, 414
+mascareta higiènica, 416
+mascareta quirúrgica, 417
+mesura de contenció, 425
+NVX-CoV2373, 449
+pantalla facial, 465
+pauta de vacunació, 472
+pauta vacunal, 473
+polaina, 500
+primovacunació, 504
+profilàctica, 510
+quarantena, 532
+quarantenar, 533
+quarantenat -ada, 534
+RAV, 547
+reacció adversa a vacuna, 549
+rentada de mans, 565
+rentat de mans, 566
+revaccinació, 572
+revacunació, 573
+Spikevax, 620
+Sputnik V, 621
+tovalloleta antibaf, 660
+tozinameran, 661
+vaccí, 685
+vaccinació, 686
+Ad5-nCoV, 5
+aïllament, 14
+camussa antibaf, 89
+careta, 93
+càrrega antigènica, 95
+casquet, 105
+cobertura de vacunació, 121
+cobertura vacunal, 122
+Comirnaty, 127
+confinament, 133
+confinament perimetral, 134
+contenció, 145
+Convidecia, 148
+CoronaVac, 151
+CVnCoV, 166
+desinfectant, 176
+distància de seguretat, 190
+distància física, 191
+distanciament de seguretat, 192
+distanciament físic, 193
+dosi de record, 197
+dosi de reforç, 198
+efectivitat vacunal, 202
+eficàcia vacunal, 203
+eficiència vacunal, 204
+elasomeran, 205
+EPI, 220
+equip de protecció individual, 223
+equip de protecció personal, 224
+fallada vacunal, 259
+fallada vacunal primària, 260
+fallada vacunal secundària, 261
+Gam-COVID-Vac, 284
+gel antisèptic, 287
+gel desinfectant, 288
+gel hidroalcohòlic, 289
+gel higienitzant, 290
+Prevenció
+192
+vacuna Moderna, 703
+vacuna NovaVax, 704
+vacuna Oxford-AstraZeneca, 705
+vacuna Pfizer/BioNTech, 706
+vacuna preventiva, 707
+vacuna profilàctica, 708
+vacuna Sinovac, 709
+vacuna VeroCell, 710
+vacuna vírica, 711
+vacunació, 712
+vacunació primària, 713
+Vaxzevria, 720
+ventilació, 724
+visera de protecció, 733
+zorecimeran, 743
+vacuna, 687
+vacuna anti COVID-19, 688
+vacuna antivírica, 689
+vacuna AstraZeneca, 690
+vacuna BBIBP-CorV, 691
+vacuna CanSino, 692
+vacuna contra la COVID-19, 693
+vacuna CureVac, 694
+vacuna d’ARN missatger, 695
+vacuna d’ARNm, 696
+vacuna d’mRNA, 697
+vacuna d’RNA missatger, 698
+vacuna de Wuhan, 699
+vacuna Gamaleya, 700
+vacuna Janssen, 701
+vacuna Johnson & Johnson, 702
+Índex temàtic català
+193
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+adequació de l’esforç terapèutic, 6
+adequació de les actuacions sanitàries, 7
+atenció al dol, 54
+atenció domiciliària, 55
+atenció hospitalària, 56
+atenció primària, 57
+cànula nasal, 91
+careta, 94
+comitè de bioètica, 128
+distanàsia, 189
+dol, 195
+edatisme, 201
+esperança de vida, 231
+esperança de vida en bona salut, 232
+extubació, 256
+intubació, 380
+justícia distributiva, 383
+LET, 390
+limitació de l’esforç terapèutic, 397
+màscara, 407
+mascareta, 415
+monitoratge, 429
+mort digna, 431
+nebulització, 444
+nebulitzador, 445
+no inici de tractament, 446
+obstinació terapèutica, 450
+oxigenació, 460
+oxigenoteràpia, 461
+principi de beneficència, 505
+principi de no-maleficència, 506
+principi de precaució, 507
+priorització, 508
+punt d’injecció, 529
+punt d’inoculació, 530
+qualitat de vida, 531
+QV, 535
+rehabilitació respiratòria, 562
+respiració artificial, 568
+respirador, 569
+sedació, 589
+seroteràpia, 596
+servei d’atenció de salut a domicili, 600
+suport vital, 626
+tractament amb oxigen, 663
+tractament ambulatori, 664
+UCI, 677
+ulleres nasals, 678
+unitat de cures intensives, 680
+unitat de vigilància intensiva, 681
+ús compassiu, 683
+UVI, 684
+ventilació mecànica, 725
+via d’administració, 726
+Tractament
+194
+CD24Fc, 107
+cenicriviroc, 112
+ciclesonida, 113
+clazakizumab, 116
+clofazimina, 118
+cloroquina, 119
+cobicistat, 123
+colquicina, 126
+conestat alfa, 132
+danoprevir, 167
+darunavir, 168
+dazcapistat, 169
+deshidrodidemnina B, 175
+dexametasona, 180
+eculizumab, 199
+emapalumab, 207
+emtricitabina, 212
+emvododstat, 213
+enoxaparina, 216
+enpatoran, 217
+ensovibep, 218
+etesevimab, 249
+favipiravir, 271
+fenofibrat, 274
+fingolimod, 278
+galidesivir, 283
+gimsilumab, 292
+goflikicept, 293
+heparina, 306
+hidroxicloroquina, 308
+ibuprofèn, 324
+icatibant, 325
+IECA, 326
+imdevimab, 327
+inhibidor de l’enzim conversiu de l’angiotensina, 375
+interferó beta, 379
+lanadelumab, 385
+acalabrutinib, 2
+ADG20, 8
+alunacedasa alfa, 19
+ambroxol, 20
+AMY-101, 21
+anakinra, 22
+analgèsic, 23
+antiàlgic, 26
+antibiòtic, 27
+antipirètic, 30
+antiretroviral, 31
+antitèrmic, 32
+antiviral, 33
+antivíric, 34
+apilimod, 35
+apremilast, 37
+ARV, 42
+ASC09F, 43
+atibuclimab, 58
+ATYR1923, 59
+aviptadil, 63
+azitromicina, 64
+bamlanivimab, 65
+baricitinib, 66
+bemcentinib, 68
+bevacizumab, 69
+boceprevir, 70
+brensocatib, 74
+brequinar, 75
+brincidofovir, 76
+bromhexina, 77
+broncodilatador, 78
+budesonida, 84
+camostat, 87
+camrelizumab, 88
+canakinumab, 90
+casirivimab, 104
+Índex temàtic català
+Principis actius
+195
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+ribavirina, 574
+ritonavir, 575
+ruxolitinib, 578
+sarilumab, 584
+selinexor, 590
+siltuximab, 603
+siròlimus, 614
+sotrovimab, 619
+subasumstat, 623
+talidomida, 628
+tenofovir, 643
+tixagevimab, 654
+tocilizumab, 656
+TRV027, 676
+umifenovir, 679
+vafidemstat, 714
+vidofludimús, 727
+viricida, 728
+vorapaxar, 738
+zilucoplan, 740
+lenzilumab, 388
+leronlimab, 389
+lopinavir, 398
+MEDI 3506, 418
+meplazumab, 422
+metilprednisolona, 426
+molnupiravir, 428
+montelukast, 430
+mupadolimab, 438
+nafamostat, 442
+OP-101, 455
+opaganib, 456
+oseltamivir, 458
+otilimab, 459
+pemziviptadil, 475
+plitidepsina, 494
+prednisolona, 502
+rapamicina, 539
+ravulizumab, 548
+regdanvimab, 561
+remdesivir, 564
+196
+nova normalitat, 448
+peritatge mèdic, 483
+persona de risc per a la COVID-19, 486
+persona especialment sensible a la COVID-19, 487
+persona vulnerable a la COVID-19, 488
+pla de contingència contra la COVID-19, 492
+salut en el treball, 580
+salut laboral, 581
+sanitarització, 583
+servei de prevenció, 601
+socialització, 616
+telemedicina, 636
+teletreball, 637
+temps de convalescència, 639
+temps de recuperació, 642
+toc de queda, 655
+treball a distància, 671
+alta, 17
+alta mèdica, 18
+autoritat sanitària, 62
+comunicat mèdic d’alta, 131
+convalescència, 147
+delegat de prevenció | delegada de prevenció, 171
+discapacitat, 185
+ERTO, 226
+estat d’alarma, 236
+expedient de regulació temporal d’ocupació, 252
+incapacitat, 359
+incapacitat permanent, 360
+incapacitat temporal, 361
+infodèmia, 374
+IP, 381
+IT, 382
+medicalitzar, 419
+medicina avaluadora, 420
+Índex temàtic català
+Entorn social
+197
+QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19
+

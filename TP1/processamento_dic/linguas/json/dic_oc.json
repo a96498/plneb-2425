@@ -1,0 +1,1650 @@
+{
+  "25": [
+    "ansietat anticipatòria"
+  ],
+  "27": [
+    "antibiotic"
+  ],
+  "28": [
+    "anticòs"
+  ],
+  "29": [
+    "antigèn"
+  ],
+  "30": [
+    "antipiretic",
+    "antitermic"
+  ],
+  "31": [
+    "ARV",
+    "antiretròvirau"
+  ],
+  "34": [
+    "antivirau",
+    "antiviric"
+  ],
+  "35": [
+    "apilimod"
+  ],
+  "36": [
+    "aplanar era corba"
+  ],
+  "37": [
+    "apremilast"
+  ],
+  "4": [
+    "ARN",
+    "RNA"
+  ],
+  "544": [
+    "arrata-cauda"
+  ],
+  "546": [
+    "arrata-cauda de herradura petita"
+  ],
+  "41": [
+    "arritmia"
+  ],
+  "43": [
+    "ASC09F"
+  ],
+  "44": [
+    "asimptomatic -a"
+  ],
+  "45": [
+    "assag aleatorizat",
+    "assag clinic aleatorizat"
+  ],
+  "49": [
+    "assag clinic"
+  ],
+  "51": [
+    "assag comunitari",
+    "assag d’intervencion comunitària"
+  ],
+  "46": [
+    "assag damb cegament"
+  ],
+  "53": [
+    "astenia"
+  ],
+  "54": [
+    "atencion ath dò"
+  ],
+  "55": [
+    "atencion domiciliària",
+    "servici d’atencion de salut en domicili"
+  ],
+  "305": [
+    "atencion ematica",
+    "emograma"
+  ],
+  "56": [
+    "atencion espitalària"
+  ],
+  "57": [
+    "atencion primària"
+  ],
+  "58": [
+    "atibuclimab"
+  ],
+  "59": [
+    "ATYR1923"
+  ],
+  "60": [
+    "autoinflamacion"
+  ],
+  "61": [
+    "automòstra"
+  ],
+  "62": [
+    "autoritat sanitària"
+  ],
+  "63": [
+    "aviptadil"
+  ],
+  "64": [
+    "azitromicina"
+  ],
+  "72": [
+    "bambolha ampliada"
+  ],
+  "73": [
+    "bambolha de convivéncia"
+  ],
+  "65": [
+    "bamlanivimab"
+  ],
+  "66": [
+    "baricitinib"
+  ],
+  "227": [
+    "bastonet",
+    "bròssa",
+    "escobilhon"
+  ],
+  "68": [
+    "bemcentinib"
+  ],
+  "505": [
+    "beneficéncia",
+    "principi de beneficéncia"
+  ],
+  "69": [
+    "bevacizumab"
+  ],
+  "70": [
+    "boceprevir"
+  ],
+  "74": [
+    "brensocatib"
+  ],
+  "75": [
+    "brequinar"
+  ],
+  "76": [
+    "brincidofovir"
+  ],
+  "114": [
+    "Índexs bilingües citocina"
+  ],
+  "115": [
+    "civeta"
+  ],
+  "116": [
+    "clazakizumab"
+  ],
+  "117": [
+    "clinica"
+  ],
+  "118": [
+    "clofazimina"
+  ],
+  "119": [
+    "cloroquina"
+  ],
+  "120": [
+    "coagulopatia"
+  ],
+  "121": [
+    "cobertura de vacunacion",
+    "cobertura vacunau"
+  ],
+  "123": [
+    "cobicistat"
+  ],
+  "165": [
+    "coitiu"
+  ],
+  "739": [
+    "chòc",
+    "colapse cardiocirculatòri",
+    "shòck"
+  ],
+  "125": [
+    "collectiu vulnerable de risc"
+  ],
+  "126": [
+    "colquicina"
+  ],
+  "661": [
+    "Comirnaty",
+    "tozinameran",
+    "vacuna Pfizer/BioNTech"
+  ],
+  "128": [
+    "comitat de bioetica"
+  ],
+  "129": [
+    "comorbiditat"
+  ],
+  "18": [
+    "comunicat medicau de nauta",
+    "curat",
+    "nauta",
+    "nauta medicau"
+  ],
+  "13": [
+    "concentracion"
+  ],
+  "132": [
+    "conestat alfa"
+  ],
+  "133": [
+    "confinament"
+  ],
+  "134": [
+    "confinament perimetrau"
+  ],
+  "135": [
+    "congestion nasau"
+  ],
+  "136": [
+    "conjontivitis"
+  ],
+  "137": [
+    "contacte"
+  ],
+  "138": [
+    "contacte estret"
+  ],
+  "139": [
+    "contagi"
+  ],
+  "140": [
+    "contagi dirècte",
+    "contagi immediat",
+    "contagi personau"
+  ],
+  "142": [
+    "contagi indirècte"
+  ],
+  "144": [
+    "contagiositat"
+  ],
+  "145": [
+    "contencion"
+  ],
+  "146": [
+    "contraròtle"
+  ],
+  "147": [
+    "convalescéncia"
+  ],
+  "692": [
+    "Convidecia",
+    "vacuna CanSino"
+  ],
+  "150": [
+    "corba de contagis",
+    "corba epidemica"
+  ],
+  "709": [
+    "CoronaVac",
+    "vacuna Sinovac"
+  ],
+  "152": [
+    "coronavirus"
+  ],
+  "77": [
+    "bromhexina"
+  ],
+  "78": [
+    "broncodilatador",
+    "broncodilatant"
+  ],
+  "79": [
+    "bronqui"
+  ],
+  "80": [
+    "bronquiòl"
+  ],
+  "81": [
+    "bronquiolitis",
+    "bronquitis capillar"
+  ],
+  "83": [
+    "bròt epidemic"
+  ],
+  "84": [
+    "budesonida"
+  ],
+  "86": [
+    "cadia de transmission",
+    "cadia epidemiologica"
+  ],
+  "106": [
+    "caisheta",
+    "cassette"
+  ],
+  "660": [
+    "camós antivapor",
+    "tovalholeta antibugàs"
+  ],
+  "87": [
+    "camostat"
+  ],
+  "88": [
+    "camrelizumab"
+  ],
+  "90": [
+    "canakinumab"
+  ],
+  "270": [
+    "cansament",
+    "fatiga pandemica"
+  ],
+  "92": [
+    "capsida"
+  ],
+  "407": [
+    "careta",
+    "masca, 406",
+    "mascareta, 406",
+    "masqueta, 406"
+  ],
+  "95": [
+    "carga antigenica"
+  ],
+  "96": [
+    "carga virau",
+    "carga virica"
+  ],
+  "98": [
+    "cas"
+  ],
+  "99": [
+    "cas confirmat"
+  ],
+  "100": [
+    "cas descartat"
+  ],
+  "101": [
+    "cas indèx",
+    "pacient zèro"
+  ],
+  "103": [
+    "cas possible",
+    "cas sospitós"
+  ],
+  "104": [
+    "casirivimab"
+  ],
+  "105": [
+    "casquet"
+  ],
+  "107": [
+    "CD24Fc"
+  ],
+  "109": [
+    "cefalalgia",
+    "cefalèa",
+    "mau de cap"
+  ],
+  "392": [
+    "cellula B",
+    "limfòcit B"
+  ],
+  "394": [
+    "cellula T",
+    "limfòcit T"
+  ],
+  "112": [
+    "cenicriviroc"
+  ],
+  "113": [
+    "ciclesonida"
+  ],
+  "195": [
+    "dòl"
+  ],
+  "196": [
+    "dolor toracic",
+    "mau de piech"
+  ],
+  "197": [
+    "dòsi de rebrembe",
+    "dòsi de refòrç"
+  ],
+  "199": [
+    "eculizumab"
+  ],
+  "200": [
+    "eczèma"
+  ],
+  "201": [
+    "edatisme"
+  ],
+  "202": [
+    "efectivitat vacunau"
+  ],
+  "203": [
+    "eficacitat vacunau"
+  ],
+  "204": [
+    "eficiéncia vacunau"
+  ],
+  "205": [
+    "Spikevax",
+    "elasomeran",
+    "vacuna Moderna"
+  ],
+  "219": [
+    "ELISA",
+    "enzimoimmunoassag sus fasa solida"
+  ],
+  "207": [
+    "emapalumab"
+  ],
+  "209": [
+    "embolia paumonar"
+  ],
+  "210": [
+    "emergéncia sanitària"
+  ],
+  "212": [
+    "emtricitabina"
+  ],
+  "213": [
+    "emvododstat"
+  ],
+  "215": [
+    "endemia"
+  ],
+  "476": [
+    "engelura",
+    "sabanhon"
+  ],
+  "208": [
+    "engolòpa",
+    "envolopa"
+  ],
+  "216": [
+    "enoxaparina"
+  ],
+  "217": [
+    "enpatoran"
+  ],
+  "218": [
+    "ensovibep"
+  ],
+  "306": [
+    "eparina"
+  ],
+  "307": [
+    "epatotoxicitat"
+  ],
+  "222": [
+    "epdemiologia"
+  ],
+  "223": [
+    "EPI",
+    "equip de proteccion individuau",
+    "equip de proteccion personau"
+  ],
+  "221": [
+    "epidèmia"
+  ],
+  "225": [
+    "erradicacion"
+  ],
+  "252": [
+    "ERTO",
+    "expedient de regulacion temporau d’aucupacion"
+  ],
+  "269": [
+    "esgotament mentau"
+  ],
+  "231": [
+    "esperança de vida"
+  ],
+  "232": [
+    "esperança de vida en bona salut"
+  ],
+  "233": [
+    "espicula",
+    "peplomèr"
+  ],
+  "154": [
+    "coronavirus MERS-CoV",
+    "coronavirus associat a MERS",
+    "coronavirus dera MERS"
+  ],
+  "153": [
+    "SARS-CoV-2",
+    "coronavirus SARS-CoV-2",
+    "coronavirus associat ara COVID-19",
+    "coronavirus dera COVID-19"
+  ],
+  "155": [
+    "SARS-CoV",
+    "coronavirus associat ara SARS",
+    "coronavirus dera SARS"
+  ],
+  "161": [
+    "covid 19",
+    "malautia respiratòria provocada peth SARS-CoV-2",
+    "sindròme respiratòri associat ath SARS-CoV-2"
+  ],
+  "163": [
+    "COVID-19 persistenta"
+  ],
+  "164": [
+    "cribratge"
+  ],
+  "694": [
+    "CVnCoV",
+    "vacuna CureVac",
+    "zorecimeran"
+  ],
+  "167": [
+    "danoprevir"
+  ],
+  "168": [
+    "darunavir"
+  ],
+  "169": [
+    "dazcapistat"
+  ],
+  "170": [
+    "defenses"
+  ],
+  "171": [
+    "delegat de prevencion | delegada de prevencion"
+  ],
+  "172": [
+    "desconfinament"
+  ],
+  "173": [
+    "desescalada",
+    "desescalament"
+  ],
+  "494": [
+    "desidrodidemnina B",
+    "plitidepsina"
+  ],
+  "176": [
+    "desinfectant"
+  ],
+  "609": [
+    "destret respiratòri der adult",
+    "paumon de chòc",
+    "sindròme deth destret respiratòri der adult"
+  ],
+  "610": [
+    "destret respiratòri deth mainatjon",
+    "displasia alveolar congenita",
+    "sindròme deth destret respiratòri en mainatjon",
+    "sindròme deth destret respiratòri idiopatica deth mainatjon"
+  ],
+  "179": [
+    "deteccion precòç"
+  ],
+  "180": [
+    "dexametasona"
+  ],
+  "182": [
+    "diagnostic",
+    "diagnòsi"
+  ],
+  "183": [
+    "diarrèa"
+  ],
+  "184": [
+    "dimer-D"
+  ],
+  "185": [
+    "discapacitat"
+  ],
+  "186": [
+    "disfonia"
+  ],
+  "188": [
+    "dispnèa",
+    "estofament",
+    "tapament"
+  ],
+  "450": [
+    "distanàsia",
+    "obstinacion terapeutica"
+  ],
+  "190": [
+    "distància de seguretat",
+    "distància fisica"
+  ],
+  "192": [
+    "distanciament de seguretat",
+    "distanciament fisic"
+  ],
+  "265": [
+    "fauta de contencion"
+  ],
+  "271": [
+    "favipiravir"
+  ],
+  "272": [
+    "fèbre"
+  ],
+  "273": [
+    "febricula"
+  ],
+  "274": [
+    "fenofibrat"
+  ],
+  "275": [
+    "ferritina"
+  ],
+  "276": [
+    "fibrinogèn"
+  ],
+  "277": [
+    "fibròsi"
+  ],
+  "278": [
+    "fingolimod"
+  ],
+  "434": [
+    "flux nasofaringi",
+    "mòstra nasofaringia"
+  ],
+  "281": [
+    "fomes",
+    "fomites"
+  ],
+  "298": [
+    "fòrt -a",
+    "grèu",
+    "sevèr -a"
+  ],
+  "282": [
+    "frotís"
+  ],
+  "283": [
+    "galidesivir"
+  ],
+  "284": [
+    "Gam-COVID-Vac",
+    "Sputnik V",
+    "vacuna Gamaleya"
+  ],
+  "289": [
+    "gèl antiseptic",
+    "gèl desinfectant",
+    "gèl idroalcoolic",
+    "gèl igienizant"
+  ],
+  "291": [
+    "genòma"
+  ],
+  "292": [
+    "gimsilumab"
+  ],
+  "293": [
+    "goflikicept"
+  ],
+  "296": [
+    "gota de Flügge",
+    "goteta de Flügge",
+    "goteta respiratòria"
+  ],
+  "299": [
+    "grop bambolha"
+  ],
+  "303": [
+    "grop de risc"
+  ],
+  "304": [
+    "guant"
+  ],
+  "377": [
+    "IA",
+    "intelligéncia artificiau"
+  ],
+  "324": [
+    "ibuprofèn"
+  ],
+  "325": [
+    "icatibant"
+  ],
+  "308": [
+    "idroxicloroquina"
+  ],
+  "375": [
+    "IECA",
+    "inibidor der enzim conversiu dera angiotensina"
+  ],
+  "309": [
+    "igièna",
+    "profilactica"
+  ],
+  "310": [
+    "igièna de mans",
+    "lauada de mans",
+    "lauat de mans"
+  ],
+  "327": [
+    "imdevimab"
+  ],
+  "328": [
+    "immune",
+    "immunizat -ada"
+  ],
+  "330": [
+    "immunitari -ària"
+  ],
+  "234": [
+    "estacionalitat"
+  ],
+  "478": [
+    "estadi d’incubacion",
+    "periòde de laténcia",
+    "periòde de reaccion",
+    "periòde d’incubacion",
+    "periòde latent"
+  ],
+  "236": [
+    "estat d’alarma"
+  ],
+  "237": [
+    "estudi clinic"
+  ],
+  "244": [
+    "estudi de fasa II",
+    "estudi d’exploracion terapeutica",
+    "fasa II"
+  ],
+  "246": [
+    "estudi de fasa IV",
+    "estudi d’usatge terapeutic",
+    "fasa IV"
+  ],
+  "245": [
+    "estudi de confirmacion terapeutica",
+    "estudi de fasa III",
+    "fasa III"
+  ],
+  "243": [
+    "estudi de farmacologia umana",
+    "estudi de fasa I",
+    "fasa I"
+  ],
+  "242": [
+    "estudi de fasa 0",
+    "estudi de microdòsi",
+    "fasa 0"
+  ],
+  "248": [
+    "estudi preclinic"
+  ],
+  "249": [
+    "etesevimab"
+  ],
+  "228": [
+    "eveniment advèrs",
+    "eveniment desfavorable"
+  ],
+  "250": [
+    "excès de mortalitat"
+  ],
+  "483": [
+    "expertesa medicau",
+    "peritatge medicau"
+  ],
+  "253": [
+    "exsudat"
+  ],
+  "256": [
+    "extubacion"
+  ],
+  "257": [
+    "factor de risc"
+  ],
+  "258": [
+    "fagocitòsi"
+  ],
+  "259": [
+    "falhada vacunau"
+  ],
+  "260": [
+    "falhada vacunau primària"
+  ],
+  "261": [
+    "falhada vacunau segondària"
+  ],
+  "266": [
+    "fasa de mitigacion"
+  ],
+  "268": [
+    "fatiga"
+  ],
+  "262": [
+    "faus negatiu"
+  ],
+  "263": [
+    "faus positiu"
+  ],
+  "264": [
+    "fauta de concentracion"
+  ],
+  "376": [
+    "insòmi"
+  ],
+  "378": [
+    "interferon"
+  ],
+  "379": [
+    "interferon beta"
+  ],
+  "380": [
+    "intubacion"
+  ],
+  "360": [
+    "IP",
+    "incapacitat permanenta"
+  ],
+  "313": [
+    "ipoestesia gustativa",
+    "ipogeusestesia",
+    "ipogeusia"
+  ],
+  "314": [
+    "ipoosmia"
+  ],
+  "316": [
+    "ipoxemia"
+  ],
+  "317": [
+    "ipoxia"
+  ],
+  "14": [
+    "isolament"
+  ],
+  "318": [
+    "istòria clinica"
+  ],
+  "361": [
+    "IT",
+    "incapacitat temporau"
+  ],
+  "383": [
+    "justícia distributiva"
+  ],
+  "384": [
+    "LDH",
+    "lactat-desidrogenasa",
+    "lacticodesidrogenasa",
+    "lactodesidrogenasa"
+  ],
+  "385": [
+    "lanadelumab"
+  ],
+  "386": [
+    "laténcia"
+  ],
+  "388": [
+    "lenzilumab"
+  ],
+  "389": [
+    "leronlimab"
+  ],
+  "391": [
+    "limfòcit"
+  ],
+  "393": [
+    "limfòcit de memòria"
+  ],
+  "396": [
+    "limfocitopenia",
+    "limfopenia"
+  ],
+  "7": [
+    "limitacion der esfòrç terapeutic"
+  ],
+  "398": [
+    "lopinavir"
+  ],
+  "399": [
+    "macrofag"
+  ],
+  "405": [
+    "malagana"
+  ],
+  "404": [
+    "marcador inflamatòri"
+  ],
+  "331": [
+    "immunitat"
+  ],
+  "332": [
+    "immunitat activa"
+  ],
+  "333": [
+    "immunitat adaptativa",
+    "immunitat aquerida",
+    "immunitat especifica"
+  ],
+  "338": [
+    "immunitat collectiva",
+    "immunitat de comunitat",
+    "immunitat de grop"
+  ],
+  "340": [
+    "immunitat especifica artificiau"
+  ],
+  "343": [
+    "immunitat especifica naturau"
+  ],
+  "345": [
+    "immunitat especifica passiva"
+  ],
+  "347": [
+    "immunitat inespecifica",
+    "immunitat innata",
+    "immunitat naturau"
+  ],
+  "349": [
+    "immunizacion"
+  ],
+  "712": [
+    "immunizacion activa",
+    "vaccinacion",
+    "vacunacion"
+  ],
+  "351": [
+    "immunocromatografia"
+  ],
+  "352": [
+    "immunogèn -a"
+  ],
+  "353": [
+    "immunogenicitat"
+  ],
+  "354": [
+    "immunoglobulina"
+  ],
+  "355": [
+    "immunoglobulina G"
+  ],
+  "356": [
+    "immunoglobulina M"
+  ],
+  "358": [
+    "immunologic -a"
+  ],
+  "359": [
+    "incapacitat"
+  ],
+  "362": [
+    "incidéncia"
+  ],
+  "363": [
+    "incidéncia acumulada"
+  ],
+  "364": [
+    "incubacion"
+  ],
+  "635": [
+    "indèx de letalitat",
+    "indèx de mortalitat",
+    "taxa bruta de mortalitat",
+    "taxa de mortalitat"
+  ],
+  "367": [
+    "infeccion"
+  ],
+  "368": [
+    "infeccion espitalària",
+    "infeccion nosocomiau"
+  ],
+  "370": [
+    "infeccion per gotetes"
+  ],
+  "371": [
+    "infectologia"
+  ],
+  "372": [
+    "infiltrat"
+  ],
+  "373": [
+    "inflamacion"
+  ],
+  "374": [
+    "infodèmia"
+  ],
+  "506": [
+    "non-maleficéncia",
+    "principi de non-maleficéncia"
+  ],
+  "449": [
+    "NVX-CoV2373",
+    "vacuna NovaVax"
+  ],
+  "457": [
+    "OMS",
+    "Organizacion Mondiala de la Salut"
+  ],
+  "454": [
+    "ondada",
+    "ondada epidemica"
+  ],
+  "455": [
+    "OP-101"
+  ],
+  "456": [
+    "opaganib"
+  ],
+  "458": [
+    "oseltamivir"
+  ],
+  "320": [
+    "ostatgèr",
+    "òste"
+  ],
+  "321": [
+    "òste intermediari"
+  ],
+  "459": [
+    "otilimab"
+  ],
+  "460": [
+    "oxigenacion"
+  ],
+  "461": [
+    "oxigenoterapia"
+  ],
+  "463": [
+    "pandèmia"
+  ],
+  "464": [
+    "pangolin"
+  ],
+  "465": [
+    "pantalha faciau",
+    "visera de proteccion"
+  ],
+  "466": [
+    "parasit"
+  ],
+  "468": [
+    "passapòrt d’immunitat",
+    "passapòrt immunitari",
+    "passapòrt immunologic"
+  ],
+  "470": [
+    "patogèn -a"
+  ],
+  "471": [
+    "patogenicitat"
+  ],
+  "495": [
+    "mau de costat",
+    "paumonia",
+    "pneumonia"
+  ],
+  "472": [
+    "pauta de vacunacion"
+  ],
+  "550": [
+    "PCR",
+    "reaccion en cadia pera polimerasa"
+  ],
+  "475": [
+    "pemziviptadil"
+  ],
+  "479": [
+    "periòde d’infeccion"
+  ],
+  "486": [
+    "persona especiaument sensibla ara COVID-19",
+    "persona vulnerabla ara COVID-19"
+  ],
+  "409": [
+    "mascareta EPI",
+    "mascareta FFP",
+    "mascareta autofiltrant",
+    "mascareta tamb filtre faciau de particules"
+  ],
+  "413": [
+    "mascareta cirurgiau",
+    "mascareta medicau"
+  ],
+  "411": [
+    "mascareta igienica"
+  ],
+  "418": [
+    "MEDI 3506"
+  ],
+  "419": [
+    "medicalizar"
+  ],
+  "420": [
+    "medicina avaluadora"
+  ],
+  "421": [
+    "memòria immunitària"
+  ],
+  "422": [
+    "meplazumab"
+  ],
+  "678": [
+    "mericles nasaus"
+  ],
+  "613": [
+    "MERS",
+    "SROM",
+    "sindròme respiratòri d’Orient Miei"
+  ],
+  "425": [
+    "mesura de contencion"
+  ],
+  "626": [
+    "mesures de supòrt vitau",
+    "supòrt vitau"
+  ],
+  "426": [
+    "metilprednisolona"
+  ],
+  "427": [
+    "mialgia"
+  ],
+  "428": [
+    "molnupiravir"
+  ],
+  "429": [
+    "monitoratge"
+  ],
+  "430": [
+    "montelukast"
+  ],
+  "431": [
+    "mòrt digna"
+  ],
+  "432": [
+    "mortalitat"
+  ],
+  "435": [
+    "mòstra orofaríngia"
+  ],
+  "438": [
+    "mupadolimab"
+  ],
+  "441": [
+    "mutacion"
+  ],
+  "442": [
+    "nafamostat"
+  ],
+  "448": [
+    "naua normalitat"
+  ],
+  "443": [
+    "nausèa"
+  ],
+  "444": [
+    "nebulizacion"
+  ],
+  "445": [
+    "nebulizador"
+  ],
+  "446": [
+    "non inici de tractament"
+  ],
+  "532": [
+    "quarantena"
+  ],
+  "533": [
+    "quarantenar"
+  ],
+  "534": [
+    "quarantenat -ada"
+  ],
+  "531": [
+    "QV",
+    "qualitat de vida"
+  ],
+  "537": [
+    "radiografia"
+  ],
+  "538": [
+    "radiomica"
+  ],
+  "549": [
+    "RAV",
+    "reaccion advèrsa ara vacuna"
+  ],
+  "548": [
+    "ravulizumab"
+  ],
+  "562": [
+    "reabilitacion respiratòria"
+  ],
+  "551": [
+    "reaccion generau",
+    "reaccion sistemica"
+  ],
+  "552": [
+    "reaccion locau"
+  ],
+  "554": [
+    "rebrot epidemic",
+    "rebrotada epidemica"
+  ],
+  "556": [
+    "recaiguda"
+  ],
+  "541": [
+    "recèrca de contactes",
+    "tralha de contactes"
+  ],
+  "559": [
+    "recidiva"
+  ],
+  "560": [
+    "recrudescéncia"
+  ],
+  "561": [
+    "regdanvimab"
+  ],
+  "563": [
+    "reinfeccion"
+  ],
+  "564": [
+    "remdesivir"
+  ],
+  "567": [
+    "reservòri"
+  ],
+  "568": [
+    "respiracion artificiau",
+    "respiracion assistida"
+  ],
+  "569": [
+    "respirador"
+  ],
+  "570": [
+    "responsa immunitària"
+  ],
+  "571": [
+    "retrovirus"
+  ],
+  "573": [
+    "revaccinacion",
+    "revacunacion"
+  ],
+  "574": [
+    "ribavirina"
+  ],
+  "575": [
+    "ritonavir"
+  ],
+  "577": [
+    "RNA messatgèr"
+  ],
+  "578": [
+    "ruxolitinib"
+  ],
+  "580": [
+    "salut en trabalh",
+    "salut laborau"
+  ],
+  "582": [
+    "salut publica",
+    "sanitat"
+  ],
+  "490": [
+    "pic de contagi",
+    "pic epidemic"
+  ],
+  "630": [
+    "picnocardia",
+    "policardia",
+    "sincropexia",
+    "taquicardia",
+    "taquisistolia"
+  ],
+  "493": [
+    "placebo"
+  ],
+  "492": [
+    "plan de contingéncia deuant dera COVID-19"
+  ],
+  "497": [
+    "poblacion diana",
+    "poblacion objectiu"
+  ],
+  "499": [
+    "poblacion sentinèla"
+  ],
+  "500": [
+    "polaina"
+  ],
+  "502": [
+    "prednisolona"
+  ],
+  "503": [
+    "prevaléncia"
+  ],
+  "504": [
+    "primovacunacion"
+  ],
+  "507": [
+    "principi de precaucion"
+  ],
+  "508": [
+    "priorizacion"
+  ],
+  "509": [
+    "prodròm"
+  ],
+  "511": [
+    "proteïna C reactiva"
+  ],
+  "515": [
+    "proteïna S",
+    "proteïna dera espicula",
+    "proteïna espicula"
+  ],
+  "514": [
+    "proteïna estructurau"
+  ],
+  "517": [
+    "pròva antigenica",
+    "tèst d’antigens"
+  ],
+  "47": [
+    "pròva de doble anonimat",
+    "pròva de doble cèc",
+    "pròva doblament cèga"
+  ],
+  "519": [
+    "pròva de mòstres agropades",
+    "pròva de mòstres combinades",
+    "tèst per agropament de mòstres",
+    "tèst per combinacion de mòstres"
+  ],
+  "48": [
+    "pròva de triple cèc"
+  ],
+  "525": [
+    "pròva diagnostica amb immunocromatografia",
+    "pròva rapida",
+    "tèst rapid"
+  ],
+  "521": [
+    "pròva diagnostica tamb PCR"
+  ],
+  "526": [
+    "pròva serologica",
+    "tèst serologic"
+  ],
+  "529": [
+    "punt d’injeccion",
+    "punt d’inoculacion"
+  ],
+  "619": [
+    "sotrovimab"
+  ],
+  "623": [
+    "subasumstat"
+  ],
+  "624": [
+    "supercontagiador -a",
+    "superescampador -a"
+  ],
+  "627": [
+    "susceptible -a"
+  ],
+  "628": [
+    "talidomida"
+  ],
+  "633": [
+    "taxa de contagi"
+  ],
+  "634": [
+    "taxa de letalitat"
+  ],
+  "636": [
+    "telemedicina"
+  ],
+  "637": [
+    "teletrabalh"
+  ],
+  "638": [
+    "tempèsta de citocines"
+  ],
+  "642": [
+    "temps de convalescéncia",
+    "temps de recuperacion"
+  ],
+  "640": [
+    "temps de Quick",
+    "temps de protrombina"
+  ],
+  "643": [
+    "tenofovir"
+  ],
+  "644": [
+    "tèst antigenic"
+  ],
+  "652": [
+    "testatge massiu"
+  ],
+  "653": [
+    "títol d’anticòssi"
+  ],
+  "654": [
+    "tixagevimab"
+  ],
+  "655": [
+    "tòc de queda"
+  ],
+  "656": [
+    "tocilizumab"
+  ],
+  "657": [
+    "tos"
+  ],
+  "658": [
+    "tos productiva"
+  ],
+  "659": [
+    "tos seca"
+  ],
+  "583": [
+    "sanitarizacion"
+  ],
+  "584": [
+    "sarilumab"
+  ],
+  "612": [
+    "SARS",
+    "sindròme respiratòri agut grèu"
+  ],
+  "579": [
+    "saut d’espècie"
+  ],
+  "589": [
+    "sedacion"
+  ],
+  "590": [
+    "selinexor"
+  ],
+  "605": [
+    "semiologia",
+    "simptomatologia"
+  ],
+  "592": [
+    "sepsia"
+  ],
+  "593": [
+    "seqüèla"
+  ],
+  "594": [
+    "serologia"
+  ],
+  "595": [
+    "seroprevalença"
+  ],
+  "596": [
+    "seroterapia"
+  ],
+  "597": [
+    "serotip",
+    "serotipe",
+    "serovar"
+  ],
+  "601": [
+    "servici de prevencion"
+  ],
+  "602": [
+    "signe"
+  ],
+  "603": [
+    "siltuximab"
+  ],
+  "604": [
+    "simptòma"
+  ],
+  "607": [
+    "sindemia"
+  ],
+  "614": [
+    "siròlimus"
+  ],
+  "615": [
+    "soca"
+  ],
+  "616": [
+    "socializacion"
+  ],
+  "617": [
+    "sonda",
+    "sonda moleculara"
+  ],
+  "701": [
+    "vacuna Janssen",
+    "vacuna Johnson & Johnson"
+  ],
+  "690": [
+    "Vaxzevria",
+    "vacuna AstraZeneca",
+    "vacuna Oxford-AstraZeneca"
+  ],
+  "707": [
+    "vacuna preventiva",
+    "vacuna profilactica"
+  ],
+  "710": [
+    "vacuna VeroCell",
+    "vacuna de Wuhan"
+  ],
+  "711": [
+    "vacuna antivirica",
+    "vacuna virica"
+  ],
+  "714": [
+    "vafidemstat"
+  ],
+  "715": [
+    "varianta"
+  ],
+  "716": [
+    "varianta d’interès"
+  ],
+  "718": [
+    "varianta preocupanta"
+  ],
+  "721": [
+    "velocitat reproductiva basica"
+  ],
+  "722": [
+    "velocitat reproductiva efectiva"
+  ],
+  "723": [
+    "velocitat reproductiva empirica"
+  ],
+  "724": [
+    "ventilacion"
+  ],
+  "726": [
+    "via d’administracion"
+  ],
+  "727": [
+    "vidofludimús"
+  ],
+  "728": [
+    "viricida"
+  ],
+  "729": [
+    "virion"
+  ],
+  "730": [
+    "viruléncia"
+  ],
+  "731": [
+    "virus"
+  ],
+  "737": [
+    "vomèc"
+  ],
+  "738": [
+    "vorapaxar"
+  ],
+  "740": [
+    "zilucoplan"
+  ],
+  "741": [
+    "zoonòsi"
+  ],
+  "742": [
+    "zoonotic -a"
+  ],
+  "662": [
+    "traçabilitat"
+  ],
+  "664": [
+    "tractament ambulatòri"
+  ],
+  "542": [
+    "tralhador de contactes | tralhadora de contactes"
+  ],
+  "665": [
+    "transmissible -a"
+  ],
+  "666": [
+    "transmission"
+  ],
+  "667": [
+    "transmission comunitària"
+  ],
+  "668": [
+    "transmission orizontau"
+  ],
+  "669": [
+    "transmission verticau"
+  ],
+  "670": [
+    "traqueotomia"
+  ],
+  "672": [
+    "triatge"
+  ],
+  "673": [
+    "trombe"
+  ],
+  "674": [
+    "trombòsi"
+  ],
+  "676": [
+    "TRV027"
+  ],
+  "679": [
+    "umifenovir"
+  ],
+  "680": [
+    "USI",
+    "UVI",
+    "unitat de suenhs intensius",
+    "unitat de vigilància intensiva"
+  ],
+  "682": [
+    "urticària"
+  ],
+  "683": [
+    "us compassiu",
+    "usatge compassiu"
+  ],
+  "687": [
+    "vaccin",
+    "vacuna"
+  ],
+  "691": [
+    "vacuna BBIBP-CorV"
+  ],
+  "688": [
+    "vacuna contra la COVID-19"
+  ],
+  "698": [
+    "vacuna d’RNA messatgèr"
+  ]
+}

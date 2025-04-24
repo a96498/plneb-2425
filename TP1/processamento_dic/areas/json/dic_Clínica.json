@@ -1,0 +1,365 @@
+{
+  "604": [
+    "símptoma"
+  ],
+  "605": [
+    "simptomatologia"
+  ],
+  "606": [
+    "sincropèxia"
+  ],
+  "608": [
+    "síndrome del destret respiratori agut"
+  ],
+  "609": [
+    "síndrome del destret respiratori de l’adult"
+  ],
+  "610": [
+    "síndrome del destret respiratori del nadó"
+  ],
+  "611": [
+    "síndrome post COVID-19"
+  ],
+  "612": [
+    "síndrome respiratòria aguda greu"
+  ],
+  "613": [
+    "síndrome respiratòria de l’Orient Mitjà"
+  ],
+  "622": [
+    "SRAG"
+  ],
+  "629": [
+    "tapament"
+  ],
+  "630": [
+    "taquicàrdia"
+  ],
+  "631": [
+    "taquisistòlia"
+  ],
+  "657": [
+    "tos"
+  ],
+  "658": [
+    "tos productiva"
+  ],
+  "659": [
+    "tos seca"
+  ],
+  "670": [
+    "traqueotomia"
+  ],
+  "673": [
+    "trombe"
+  ],
+  "674": [
+    "trombosi"
+  ],
+  "675": [
+    "trombus"
+  ],
+  "682": [
+    "urticària"
+  ],
+  "737": [
+    "vòmit"
+  ],
+  "739": [
+    "xoc"
+  ],
+  "451": [
+    "ofec"
+  ],
+  "476": [
+    "penelló"
+  ],
+  "484": [
+    "pernió"
+  ],
+  "485": [
+    "perniosi"
+  ],
+  "491": [
+    "picnocàrdia"
+  ],
+  "495": [
+    "pneumònia"
+  ],
+  "496": [
+    "pneumònia d’aspiració congènita"
+  ],
+  "501": [
+    "policàrdia"
+  ],
+  "509": [
+    "pròdrom"
+  ],
+  "527": [
+    "pulmó de xoc"
+  ],
+  "528": [
+    "pulmonia"
+  ],
+  "551": [
+    "reacció general"
+  ],
+  "552": [
+    "reacció local"
+  ],
+  "553": [
+    "reacció sistèmica"
+  ],
+  "556": [
+    "recaiguda"
+  ],
+  "559": [
+    "recidiva"
+  ],
+  "560": [
+    "recrudescència"
+  ],
+  "563": [
+    "reinfecció"
+  ],
+  "585": [
+    "SARS"
+  ],
+  "588": [
+    "SDRA"
+  ],
+  "591": [
+    "semiologia"
+  ],
+  "592": [
+    "sèpsia"
+  ],
+  "593": [
+    "seqüela"
+  ],
+  "602": [
+    "signe"
+  ],
+  "304": [
+    "Índex temàtic català guant"
+  ],
+  "309": [
+    "higiene"
+  ],
+  "310": [
+    "higiene de mans"
+  ],
+  "350": [
+    "immunització activa"
+  ],
+  "406": [
+    "màscara"
+  ],
+  "408": [
+    "màscara amb filtre de partícules"
+  ],
+  "409": [
+    "màscara autofiltrant"
+  ],
+  "410": [
+    "màscara FFP"
+  ],
+  "411": [
+    "màscara higiènica"
+  ],
+  "412": [
+    "màscara mèdica"
+  ],
+  "413": [
+    "màscara quirúrgica"
+  ],
+  "414": [
+    "mascareta"
+  ],
+  "416": [
+    "mascareta higiènica"
+  ],
+  "417": [
+    "mascareta quirúrgica"
+  ],
+  "425": [
+    "mesura de contenció"
+  ],
+  "449": [
+    "NVX-CoV2373"
+  ],
+  "465": [
+    "pantalla facial"
+  ],
+  "472": [
+    "pauta de vacunació"
+  ],
+  "473": [
+    "pauta vacunal"
+  ],
+  "500": [
+    "polaina"
+  ],
+  "504": [
+    "primovacunació"
+  ],
+  "510": [
+    "profilàctica"
+  ],
+  "532": [
+    "quarantena"
+  ],
+  "533": [
+    "quarantenar"
+  ],
+  "534": [
+    "quarantenat -ada"
+  ],
+  "547": [
+    "RAV"
+  ],
+  "549": [
+    "reacció adversa a vacuna"
+  ],
+  "565": [
+    "rentada de mans"
+  ],
+  "566": [
+    "rentat de mans"
+  ],
+  "572": [
+    "revaccinació"
+  ],
+  "573": [
+    "revacunació"
+  ],
+  "620": [
+    "Spikevax"
+  ],
+  "621": [
+    "Sputnik V"
+  ],
+  "660": [
+    "tovalloleta antibaf"
+  ],
+  "661": [
+    "tozinameran"
+  ],
+  "685": [
+    "vaccí"
+  ],
+  "686": [
+    "vaccinació"
+  ],
+  "5": [
+    "Ad5-nCoV"
+  ],
+  "14": [
+    "aïllament"
+  ],
+  "89": [
+    "camussa antibaf"
+  ],
+  "93": [
+    "careta"
+  ],
+  "95": [
+    "càrrega antigènica"
+  ],
+  "105": [
+    "casquet"
+  ],
+  "121": [
+    "cobertura de vacunació"
+  ],
+  "122": [
+    "cobertura vacunal"
+  ],
+  "127": [
+    "Comirnaty"
+  ],
+  "133": [
+    "confinament"
+  ],
+  "134": [
+    "confinament perimetral"
+  ],
+  "145": [
+    "contenció"
+  ],
+  "148": [
+    "Convidecia"
+  ],
+  "151": [
+    "CoronaVac"
+  ],
+  "166": [
+    "CVnCoV"
+  ],
+  "176": [
+    "desinfectant"
+  ],
+  "190": [
+    "distància de seguretat"
+  ],
+  "191": [
+    "distància física"
+  ],
+  "192": [
+    "distanciament de seguretat"
+  ],
+  "193": [
+    "distanciament físic"
+  ],
+  "197": [
+    "dosi de record"
+  ],
+  "198": [
+    "dosi de reforç"
+  ],
+  "202": [
+    "efectivitat vacunal"
+  ],
+  "203": [
+    "eficàcia vacunal"
+  ],
+  "204": [
+    "eficiència vacunal"
+  ],
+  "205": [
+    "elasomeran"
+  ],
+  "220": [
+    "EPI"
+  ],
+  "223": [
+    "equip de protecció individual"
+  ],
+  "224": [
+    "equip de protecció personal"
+  ],
+  "259": [
+    "fallada vacunal"
+  ],
+  "260": [
+    "fallada vacunal primària"
+  ],
+  "261": [
+    "fallada vacunal secundària"
+  ],
+  "284": [
+    "Gam-COVID-Vac"
+  ],
+  "287": [
+    "gel antisèptic"
+  ],
+  "288": [
+    "gel desinfectant"
+  ],
+  "289": [
+    "gel hidroalcohòlic"
+  ],
+  "290": [
+    "gel higienitzant"
+  ]
+}
