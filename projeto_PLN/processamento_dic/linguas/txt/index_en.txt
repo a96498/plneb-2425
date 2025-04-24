@@ -1,0 +1,727 @@
+artificial intelligence, 377
+artificial respiration, 568
+artificial specific immunity, 340
+ARV, 31
+ASC09F, 43
+assisted ventilation, 568
+asthenia, 53
+AstraZeneca vaccine, 690
+asymptomatic, 44
+atibuclimab, 58
+attention to grief, 54
+ATYR1923, 59
+autofiltrante mask, 409
+autoinflammation, 60
+aviptadil, 63
+azithromycin, 64
+B cell, 392
+B lymphocyte, 392
+B-cell, 392
+bamlanivimab, 65
+baricitinib, 66
+basic reproduction number, 721
+basic reproductive rate, 721
+bat, 544
+BBIBP-CorV vaccine, 691
+bemcentinib, 68
+beneficence, 505
+bereavement, 195
+bevacizumab, 69
+bioethics committee, 128
+Ab test, 644
+acalabrutinib, 2
+ACE inhibitor, 375
+acquired immunity, 333
+active immunity, 332
+acute respiratory distress syndrome, 609
+Ad5-nCoV, 692
+adaptative immunity, 333
+ADG20, 8
+adult respiratory distress syndrome, 609
+adverse event, 228
+aerosol, 10
+Ag test, 517
+ageism, 201
+ageusia, 12
+agism, 201
+AI, 377
+alcohol-based hand gel, 289
+alunacedase alfa, 19
+ambroxol, 20
+AMY-101, 21
+anakinra, 22
+analgesic, 23
+angiotensin-converting enzyme inhibitor, 375
+anodyne, 23
+anosmia, 24
+anti-fog suede, 660
+antibiotic, 27
+antibody, 28
+antibody test, 644
+antibody titer, 653
+anticipatory anxiety, 25
+antigen, 29
+antigen test, 517
+antigenic load, 95
+antipyretic, 30
+antiretroviral, 31
+clazakizumab, 116
+clinic, 117
+clinical chart, 318
+clinical record, 318
+clinical study, 237
+clinical trial, 49
+clofazimine, 118
+close contact, 138
+close-distance contact, 138
+cluster, 13
+co-morbidity, 129
+coagulopathy, 120
+cobicistat, 123
+coexistence bubble, 73
+colchicine, 126
+Comirnaty, 661
+communicable, 665
+community immunity, 338
+community intervention trial, 51
+community spread, 667
+community transmission, 667
+community trial, 51
+comorbidity, 129
+compassionate use, 683
+complete blood count, 305
+conestat alfa, 132
+confinement, 133
+confirmed case, 99
+conjunctivitis, 136
+contact, 137
+contact follow-up, 541
+contact tracer, 542
+contact tracing, 541
+contact tracking, 541
+contagion, 139
+contagion curve, 150
+contagion rate, 633
+contagiosity, 144
+contagiousness, 144
+containment measure, 425
+biological agent, 11
+bleeding disorder, 120
+blind trial, 46
+blinded trial, 46
+boceprevir, 70
+booster dose, 197
+brensocatib, 74
+brequinar, 75
+brincidofovir, 76
+bromhexine, 77
+bronchiole, 80
+bronchiolitis, 81
+bronchiolus, 80
+bronchodilator, 78
+bronchus, 79
+bubble group, 299
+budesonide, 84
+C-reactive protein, 511
+camostat, 87
+camrelizumab, 88
+canakinumab, 90
+CanSino vaccine, 692
+capsid, 92
+case, 98
+case-fatality rate, 634
+casirivimab, 104
+cassette, 106
+CCT, 49
+CD24Fc, 107
+cenicriviroc, 112
+cephalalgia, 109
+cephalea, 109
+cephalgia, 109
+CFR, 634
+chest pain, 196
+chilblain, 476
+chloroquine, 119
+CI, 363
+ciclesonide, 113
+civet, 115
+dexamethasone, 180
+diagnosis, 182
+diagnostic, 182
+diarrhea, 183
+direct transmission, 140
+disability, 185, 359
+disability assessment medicine, 420
+discarded case, 100
+discharge, 18
+disinfectant, 176
+disinfectant gel, 289
+distributive justice, 383
+dizziness, 405
+DNA, 3
+domiciliary care, 55
+double-blind test, 47
+double-blinded trial, 47
+double-masked test, 47
+droplet infection, 370
+dry cough, 659
+dysphonia, 186
+dyspnea, 188
+dysthanasia, 450
+early case finding, 179
+early detection, 179
+eculizumab, 199
+eczema, 200
+effective reproduction number, 722
+effective reproduction rate, 722
+elasomeran, 205
+ELISA, 219
+emapalumab, 207
+emesis, 737
+empirical reproduction number, 723
+emtricitabine, 212
+emvododstat, 213
+endemia, 215
+enlarged bubble, 72
+enoxaparin, 216
+enpatoran, 217
+containment phase, 265
+contention, 145
+contingency plan for COVID-19, 492
+control, 146
+controlled clinical trial, 49
+convalescence, 147
+Convidecia, 692
+CoronaVac, 709
+coronavirus disease 2019, 161
+coronaviruses, 152
+cough, 657
+Covid-19, 161
+COVID-19, 161
+COVID-19 high-risk person, 486
+COVID-19 jab, 688
+COVID-19 sensitive person, 486
+COVID-19 shot, 688
+COVID-19 vaccine, 688
+COVID-19 Vaccine Janssen, 701
+COVID-19 virus, 153
+COVID-19 vulnerable person, 486
+COVID-2019, 161
+culture, 165
+cumulative incidence, 363
+CureVac vaccine, 694
+curfew, 655
+CVnCoV, 694
+cytokine, 114
+cytokine storm, 638
+D-dimer, 184
+danoprevir, 167
+darunavir, 168
+dazcapistat, 169
+de-escalation, 173
+death rate, 635
+death with dignity, 431
+deconfinement, 172
+defenses, 170
+dehydrodidemnin B, 494
+deoxyribonucleic acid, 3
+fomes, 281
+fomite, 281
+galidesivir, 283
+Gam-COVID-Vac, 284
+Gamaleya vaccine, 284
+general reaction, 551
+genome, 291
+gimsilumab, 292
+glove, 304
+goflikicept, 293
+grief, 195
+gustatory hypoesthesia, 313
+hand disinfectant gel, 289
+hand hygiene, 310
+hand sanitiser gel, 289
+hand sanitizer gel, 289
+head covering, 105
+headache, 109
+health authority, 62
+health emergency, 210
+health file, 318
+healthy life expectancy, 232
+hemogram, 305
+heparin, 306
+hepatotoxicity, 307
+herd immunity, 338
+home care service, 55
+home health care, 55
+horizontal transmission, 668
+hospital care, 56
+hospital-acquired infection, 368
+host, 320
+host species, 320
+household bubble, 73
+household support bubbles, 72
+human pharmacology study, 243
+hydroxychloroquine, 308
+hygiene, 309
+hygienic mask, 411
+hypercytokinaemia, 638
+ensovibep, 218
+envelope, 208
+enzyme-linked immunosorbent assay, 219
+epi curve, 150
+epidemic, 221
+epidemic curve, 150
+epidemic outbreak, 83
+epidemic peak, 490
+epidemic wave, 454
+epidemiologic curve, 150
+epidemiological chain, 86
+epidemiological curve, 150
+epidemiology, 222
+eradication, 225
+etesevimab, 249
+evaluating medicine, 420
+excess deaths, 250
+excess mortality, 250
+extended bubble, 72
+extubation, 256
+exudate, 253
+face shield, 465
+facial screen, 465
+false negative, 262
+false positive, 263
+fatigue, 268
+favipiravir, 271
+febricula, 273
+febrifuge, 30
+fenofibrate, 274
+ferritin, 275
+fever, 272
+FFP mask, 409
+FFP respirator, 409
+fibrinogen, 276
+fibrosis, 277
+filtering face piece, 409
+fingolimod, 278
+flatten the curve, 36
+Flügge droplet, 296
+inflammation, 373
+inflammatory marker, 404
+infodemic, 374
+inherent immunity, 347
+inherited immunity, 347
+injection site, 529
+injection site reaction, 552
+innate immunity, 347
+insomnia, 376
+intensive care unit, 680
+interferon, 378
+interferon beta, 379
+intermediate host, 321
+intubation, 380
+isolate, 16
+isolation, 14
+Janssen COVID-19 vaccine, 701
+Janssen vaccine, 701
+Johnson & Johnson vaccine, 701
+lack of concentration, 264
+lactate dehydrogenase, 384
+lactic dehydrogenase, 384
+lanadelumab, 385
+latency, 386
+latent period, 478
+LDH, 384
+lenzilumab, 388
+leronlimab, 389
+lesser horseshoe bat, 546
+life expectancy, 231
+life support, 626
+life support care, 626
+life support limitation, 7
+limitation of life support, 7
+LLS, 7
+local reaction, 552
+lockdown, 133
+lockdown lifting, 172
+long COVID, 163
+lopinavir, 398
+hypercytokinemia, 638
+hypogeusesthesia, 313
+hypogeusia, 313
+hyposmia, 314
+hypoxemia, 316
+hypoxia, 317
+ibuprofen, 324
+icatibant, 325
+ICU, 680
+idiopathic respiratory distress of newborn, 610
+imdevimab, 327
+immune, 328, 330
+immune response, 570
+immunity, 331
+immunity certificate, 468
+immunity passport, 468
+immunization, 349
+immunization coverage, 121
+immunization schedule, 472
+immunochromatographic rapid test, 525
+immunochromatography, 351
+immunogenic, 352
+immunogenicity, 353
+immunoglobulin, 354
+immunoglobulin G, 355
+immunoglobulin M, 356
+immunologic, 358
+immunological, 358
+immunological memory, 421
+incidence, 362
+incubation, 364
+incubation period, 478
+incubative stage, 478
+index case, 101
+indirect transmission, 142
+infectiology, 371
+infection, 367
+infection chain, 86
+infectious period, 479
+infiltrate, 372
+myalgia, 427
+nafamostat, 442
+nasal cannula, 678
+nasal congestion, 135
+nasal prongs, 678
+nasopharyngeal sample, 434
+native immunity, 347
+natural specific immunity, 343
+nausea, 443
+nebulization, 444
+nebulizer, 445
+neonatal respiratory distress syndrome, 610
+net reproductive rate, 722
+new epidemic outbreak, 554
+new normal, 448
+new normality, 448
+new wave, 554
+nonmaleficence, 506
+nonspecific immunity, 347
+nosocomial infection, 368
+NovaVax vaccine, 449
+NVX-CoV2373, 449
+occupational health, 580
+olfactory hypoesthesia, 314
+OP-101, 455
+opaganib, 456
+oropharyngeal sample, 435
+oseltamivir, 458
+otilimab, 459
+outpatient treatment, 664
+Oxford-AstraZeneca vaccine, 690
+oxygen therapy, 461
+oxygenation, 460
+pandemic, 463
+pandemic fatigue, 270
+pangolin, 464
+parasite, 466
+passive specific immunity, 344
+pathogenic, 470
+pathogenicity, 471
+LSL, 7
+lymphocyte, 391
+lymphocytopenia, 396
+lymphopenia, 396
+macrophage, 399
+mask, 406, 407
+mask with particulate filter, 409
+mass testing, 652
+mechanical ventilation, 568
+MEDI 3506, 418
+medical expertise, 483
+medical face shield, 465
+medical file, 318
+medical mask, 413
+medical record, 318
+medicalize, 419
+memory cell, 393
+mental exhaustion, 269
+meplazumab, 422
+MERS, 613
+MERS-CoV, 154
+MERS-CoV coronavirus, 154
+messenger ribonucleic acid, 577
+messenger ribonucleic acid vaccine, 698
+messenger RNA, 577
+messenger RNA vaccine, 698
+methylprednisolone, 426
+Middle East respiratory syndrome, 613
+mitigation phase, 266
+Moderna vaccine, 205
+molnupiravir, 428
+monitoring, 429
+montelukast, 430
+mortality, 432
+mortality rate, 635
+mourning, 195
+mRNA, 577
+mRNA vaccine, 698
+mupadolimab, 438
+mutation, 441
+prevalence, 503
+prevention delegate, 171
+prevention service, 601
+preventive vaccine, 707
+primary health car, 57
+primary immunization, 504
+primary vaccination, 504
+primary vaccine failure, 260
+primer, 214
+primovaccination, 504
+principle of beneficence, 505
+principle of nonmaleficence, 506
+prioritisation, 508
+prioritization, 508
+probe, 617
+prodrome, 509
+prophylactic vaccine, 707
+protective leg cover, 500
+prothrombin time, 640
+public health, 309, 582
+public health services, 582
+pulmonary embolism, 209
+QOL, 531
+quality of life, 531
+quarantine, 532
+quarantine, to, 533
+quarantined, 534
+radiography, 537
+radiomics, 538
+randomised clinical trial, 45
+rapamycin, 614
+rapid test, 525
+ravulizumab, 548
+RCT, 45
+recidivation, 559
+recidivism, 559
+recrudescence, 560
+regdanvimab, 561
+reinfection, 563
+relapse, 556, 559
+patient chart, 318
+patient record, 318
+PCR, 550
+PCR diagnostic test, 521
+PCR test, 521
+pemziviptadil, 475
+peplomer, 233
+peplos, 208
+perimeter confinement, 134
+period of recuperation, 642
+permanent disability, 360
+personal protective equipment, 223
+Pfizer/BioNTech, 661
+phagocytosis, 258
+phase 0, 242
+phase 0 study, 242
+phase I, 243
+phase I study, 243
+phase II, 244
+phase II study, 244
+phase III, 245
+phase III study, 245
+phase IV, 246
+phase IV study, 246
+physical distance, 190
+physical distancing, 192
+placebo, 493
+plitidepsin, 494
+pneumonia, 495
+polymerase chain reaction, 550
+polymerase chain reaction test, 521
+pooled sample testing, 519
+pooling, 519
+pooling samples, 519
+post COVID-19 condition, 163
+PPE, 223
+PPE mask, 409
+precautionary principle, 507
+preclinical study, 248
+prednisolone, 502
+sentinel population, 499
+sepsis, 592
+sequel, 593
+serologic test, 526
+serological test, 526
+serology, 594
+seroprevalence, 595
+serotherapy, 596
+serotype, 597
+serovar, 597
+serum test, 526
+severe, 298
+severe acute respiratory syndrome, 612
+severe acute respiratory syndrome-related coronavirus, 155
+severe acute respiratory syndrome-related coronavirus 2, 153
+shelter-in-place order, 133
+shock, 739
+shock lung, 609
+shoe cover, 500
+shortness of breath, 188
+sign, 602
+siltuximab, 603
+Sinopharm BIBP COVID-19 vaccine, 691
+Sinovac COVID-19 vaccine, 709
+Sinovac vaccine, 709
+sirolimus, 614
+site of injection, 529
+site of inoculation, 529
+smear, 282
+social distance, 190
+social distancing, 192
+socialization, 616
+sotrovimab, 619
+species jump, 579
+specific immunity, 333
+spike, 233
+spike glycoprotein, 515
+spike protein, 515
+remdesivir, 564
+remote working, 637
+reservoir, 567
+respiratory distress syndrome, 609
+respiratory distress syndrome of newborn, 610
+respiratory droplet, 296
+respiratory rehabilitation, 562
+retrovirus, 571
+revaccination, 573
+ribavirin, 574
+ribonucleic acid, 4
+risk factor, 257
+risk group, 303
+risk-free certificate, 468
+ritonavir, 575
+RNA, 4
+route of administration, 726
+ruxolitinib, 578
+S protein, 515
+safe distancing, 192
+safety distance, 190
+sanitarization, 583
+sanitizing gel, 289
+sarilumab, 584
+SARS, 612
+SARS virus, 155
+SARS-associated coronavirus, 155
+SARS-CoV, 155
+SARS-CoV-2, 153
+SARS-CoV-2 acute respiratory disease, 161
+scaly anteater, 464
+screening, 164
+seasonality, 234
+secondary vaccine failure, 261
+sedation, 589
+self-sample, 61
+selinexor, 590
+semeiology, 605
+semiology, 605
+sentinel group, 499
+Spikevax, 205
+Sputnik V, 284
+state of alarm, 236
+stay-at-home order, 133
+strain, 615
+structural protein, 514
+subasumstat, 623
+superspreader, 624
+surgical mask, 413
+susceptible, 627
+suspected case, 103
+suspicious case, 103
+swab, 227
+symptom, 604
+syndemics, 607
+systemic reaction, 551
+T cell, 394
+T lymphocyte, 394
+T-cell, 394
+tachycardia, 630
+target population, 497
+telecommuting, 637
+telemedicine, 636
+teleworking, 637
+temporary disability, 361
+temporary employment regulation file, 252
+tenofovir, 643
+thalidomide, 628
+therapeutic confirmatory study, 245
+therapeutic exploratory study, 244
+therapeutic obstinacy, 450
+therapeutic overzealousness, 450
+therapeutic use study, 246
+thoracalgia, 196
+thrombosis, 674
+thrombus, 673
+tixagevimab, 654
+tocilizumab, 656
+tozinameran, 661
+tracheotomy, 670
+tracing, 662
+transmissible, 665
+transmission, 666
+transmission chain, 86
+treatment withholding, 446
+triage, 672
+triple-blind test, 48
+triple-blinded test, 48
+triple-masked test, 48
+TRV027, 676
+umifenovir, 679
+urticaria, 682
+vaccination, 712
+vaccination coverage, 121
+vaccination schedule, 472
+vaccine, 687
+vaccine adverse reaction, 549
+vaccine coverage, 121
+vaccine effectiveness, 202
+vaccine efficacy, 203
+vaccine efficiency, 204
+vaccine failure, 259
+vafidemstat, 714
+variant, 715
+variant of concern, 718
+variant of interest, 716
+vax, 687, 712
+Vaxzevria, 690
+ventilation, 724
+ventilator, 569
+VeroCell vaccine, 710
+vertical transmission, 669
+vidofludimus, 727
+viral burden, 96
+viral coat, 208
+viral load, 96
+viral vaccine, 711
+viral variant, 715
+viricide, 728
+virion, 729
+virucide, 728
+virulence, 730
+virus, 731
+virus isolate, 16
+virus responsible for COVID-19, 153
+virus vaccine, 711
+virus variant, 715
+VOC, 718
+VOI, 716
+vomiting, 737
+vorapaxar, 738
+vulnerable group at risk, 125
+wave, 454
+wet cough, 658
+WHO, 457
+withholding of treatment, 446
+World Health Organization, 457
+Wuhan vaccine, 710
+zilucoplan, 740
+zoonosis, 741
+zoonotic, 742
+zorecimeran, 694

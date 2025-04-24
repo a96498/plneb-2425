@@ -1,0 +1,77 @@
+testatge massiu, 652
+títol d’anticossos, 653
+triatge, 672
+Índex temàtic català èczema, 200
+embòlia pulmonar, 209
+èmesi, 211
+esgotament, 229
+esgotament mental, 230
+exsudat, 253
+falta de concentració, 264
+fatiga, 268
+fatiga mental, 269
+fatiga pandèmica, 270
+febre, 272
+febrícula, 273
+fibrosi, 277
+greu, 298
+hepatotoxicitat, 307
+hipoestèsia gustativa, 311
+hipoestèsia olfactòria, 312
+hipogèusia, 313
+hipoòsmia, 314
+hipòsmia, 315
+hipoxèmia, 316
+hipòxia, 317
+infecció, 367
+infecció hospitalària, 368
+infecció nosocomial, 369
+infecció per gotetes, 370
+infectologia, 371
+infiltrat, 372
+insomni, 376
+mal de cap, 400
+mal de costat, 401
+mal de pit, 402
+malaltia del coronavirus 2019, 403
+mareig, 405
+MERS, 423
+miàlgia, 427
+nàusea, 443
+agèusia, 12
+anòsmia, 24
+ansietat anticipatòria, 25
+arrítmia, 41
+asimptomàtic -a, 44
+astènia, 53
+autoinflamació, 60
+bronqui, 79
+bronquíol, 80
+bronquiolitis, 81
+bronquitis capil·lar, 82
+cefalàlgia, 108
+cefalea, 109
+clínica, 117
+coagulopatia, 120
+col·lapse cardiocirculatori, 124
+comorbiditat, 129
+congestió nasal, 135
+conjuntivitis, 136
+contagi, 139
+contagi directe, 140
+contagi immediat, 141
+contagi indirecte, 142
+contagi mediat, 143
+contagiositat, 144
+covid, 159
+covid-19, 160
+COVID-19, 161
+covid persistent, 162
+COVID-19 persistent, 163
+destret respiratori de l’adult, 177
+destret respiratori del nadó, 178
+diarrea, 183
+disfonia, 186
+displàsia alveolar congènita, 187
+dispnea, 188
+dolor toràcic, 196

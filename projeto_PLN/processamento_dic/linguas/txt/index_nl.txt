@@ -1,0 +1,881 @@
+blijvende invaliditeit, 360
+blijvende ongeschiktheid, 360
+blind klinisch onderzoek, 46
+blinde klinische proef, 46
+blinde klinische studie, 46
+bloedbeeld, 305
+bloedprop, 673
+bloedstolsel, 673
+boceprevir, 70
+boodschapper-RNA, 577
+boodschapper-RNA-vaccin, 698
+booster, 197
+boosterdosis, 197
+antiviraal middel, 34
+apilimod, 35
+apremilast, 37
+arbeidsgezondheid, 580
+ARDS, 609
+aritmie, 41
+artificiële intelligentie, 377
+ASC09F, 43
+aspecifieke afweer, 349
+aspecifieke immuniteit, 347
+asthenie, 53
+AstraZeneca, 690
+AstraZeneca-vaccin, 690
+asymptomatisch -e, 44
+atibuclimab, 58
+ATYR1923, 59
+autoinflammatie, 60
+autoinflammatoire aandoening, 60
+aviptadil, 63
+avondklok, 655
+azitromycine, 64
+B-cel, 392
+B-lymfocyt, 392
+bamlanivimab, 65
+baricitinib, 66
+basaal reproductiegetal, 721
+basislevensondersteuning, 7
+basisreproductiegetal, 721
+BBIBP-CorV, 691
+BBIBP-CorV-vaccin, 691
+beademing, 568
+beademingsapparaat, 569
+beademingsmachine, 569
+beademingstoestel, 569
+beginsel van niet schaden, 506
+beginsel van weldoen, 505
+belangwekkende variant, 716
+Índex portuguès cluster, 13
+coagulopathie, 120
+cobicistat, 123
+colchicine, 126
+collectieve immuniteit, 338
+Comirnaty, 661
+comité voor bio-ethiek, 128
+comorbiditeit, 129
+concentratiegebrek, 264
+conestat alfa, 132
+conjunctivitis, 136
+contact, 137
+contactonderzoek, 541
+contactonderzoeker | contactonderzoekster, 542
+contactopvolger | contactopvolgster, 542
+contactopvolging, 541
+contacttracer, 542
+contacttracering, 541
+contacttracing, 541
+containmentfase, 265
+controlegroepdeelnemer -neemster, 146
+convalescentieperiode, 642
+corona, 152, 161
+corona-afstand, 190
+corona-uitbraak, 83
+coronabubbel, 72
+coronacertificaat, 468
+coronacurve, 150
+coronamaatregelen, 145
+coronamoeheid, 270
+coronanoodplan, 492
+coronapaspoort, 468
+coronapiek, 490
+coronarisicopatiënt | coronarisicopatiënte, 486
+CoronaVac, 709
+CoronaVac-vaccin, 709
+coronavermoeidheid, 270
+coronavirus, 152
+coronavirus SARS-CoV-2, 153
+coronawerkloosheid, 252
+boosterinjectie, 197
+boostershot, 197
+borstpijn, 196
+braken, 737
+brensocatib, 74
+brequinar, 75
+brincidofovir, 76
+bromhexine, 77
+bronchiolitis, 81
+bronchiolus, 80
+bronchodilator, 78
+bronchus, 79
+broomhexine, 77
+bubbel, 72, 299
+budesonide, 84
+buurtzorg, 55
+C-reactief proteïne, 511
+cafalalgie, 109
+camostat, 87
+camrelizumab, 88
+canakinumab, 90
+CanSino-vaccin, 692
+capside, 92
+casirivimab, 104
+cassette, 106
+CD24Fc, 107
+cefalea, 109
+cenicriviroc, 112
+cephalalgie, 109
+cephalea, 109
+chirurgenmasker, 413
+chirurgisch masker, 413
+chirurgisch mondkapje, 413
+chirurgisch mondneuskapje, 413
+chloroquine, 119
+ciclesonide, 113
+civet, 115
+civetkat, 115
+clazakizumab, 116
+clofazimine, 118
+eerstelijns medische zorg, 57
+eerstelijnsgezondheidszorg, 57
+eerstelijnszorg, 57
+effectief reproductiegetal, 722
+effectiviteit van een vaccin, 202
+efficiëntie van een vaccin, 204
+eiwitmantel, 92
+elasomeran, 205
+elektronisch patiëntendossier, 318
+elementaire levensondersteuning, 7
+ELISA, 219
+emapalumab, 207
+emesie, 737
+empirisch reproductiegetal, 723
+emtricitabine, 212
+emvododstat, 213
+endemie, 215
+enoxaparine, 216
+enpatoran, 217
+ensovibep, 218
+entstof, 687
+envelop, 208
+enveloppe, 208
+enzymgebonden immuunadsorbent-techniek, 219
+enzymgekoppelde immuunadsorbent-techniek, 219
+EPD, 318
+epidemie, 221
+epidemiologie, 222
+epidemiologische curve, 150
+epidemische curve, 150
+epidemische uitbraak, 83
+ernstig -e, 298
+ernstig acuut ademhalingssyndroom, 612
+ernstig acuut ademhalingssyndroom coronavirus 2, 153
+ernstig acuut ademhalingssyndroom-gerelateerd coronavirus 2, 153
+ernstig acuut respiratoir syndroom, 612
+etesevimab, 249
+exitstrategie, 173
+exsudaat, 253
+covid, 161
+COVID-19, 161
+COVID-19-vaccine, 688
+CRP, 511
+cumulatieve incidentie, 363
+CureVac-vaccin, 694
+CVnCoV, 694
+cytokine, 114
+cytokinestorm, 638
+D-dimer, 184
+danoprevir, 167
+darunavir, 168
+dazcapistat, 169
+de curve afvlakken, 36
+desinfecterende handgel, 289
+desoxyribonucleïnezuur, 3
+dexamethason, 180
+diagnose, 182
+diarree, 183
+directe besmetting, 140
+directe transmissie, 140
+distributieve rechtvaardigheid, 383
+DNA, 3
+doelgroep, 497
+doelmatigheid van een vaccin, 204
+doelpubliek, 497
+doeltreffendheid van een vaccin, 202
+droge hoest, 659
+druppelinfectie, 370
+druppeltje van Flügge, 296
+dubbelblind klinisch onderzoek, 47
+dubbelblinde klinische proef, 47
+dubbelblinde klinische studie, 47
+duizeligheid, 405
+dysfonie, 186
+dyspneu, 188
+dysthanasie, 450
+eculizumab, 199
+eczeem, 200
+eczema, 200
+Índex neerlandès Gam-COVID-Vac, 284
+gastheer, 320
+geavanceerde levensondersteuning, 7
+gebrek aan concentratie, 264
+gebruik in schrijnende gevallen, 683
+geheugencel, 393
+geheugenlymfocyt, 393
+geïnfecteerd oppervlak, 281
+geïsoleerd virus, 16
+gelaatsscherm, 465
+gemeenschapsbesmettimg, 667
+gemeenschapsoverdracht, 667
+gemeenschapstransmissie, 667
+gemeenschapsverspreiding, 667
+genoom, 291
+gerandomiseerd klinisch onderzoek, 45
+gerandomiseerde klinische proef, 45
+gerandomiseerde klinische studie, 45
+geurverlies, 24
+geval, 98
+gevolg, 593
+gevorderde levensondersteuning, 7
+gezichtsscherm, 465
+gezonde levensverwachting, 232
+gezondheid op het werk, 580
+gezondheidsautoriteit, 62
+gezondheidscrisis, 210
+gezondheidsdienst, 62
+gezondheidsinstanties, 62
+gezondheidsleer, 309
+gimsilumab, 292
+goflikicept, 293
+golf, 454
+groepsbescherming, 338
+groepsimmuniteit, 338
+groepsinterventie, 51
+groepsonderzoek, 51
+halfgelaatsmasker, 406
+halfmasker, 406
+handalcohol, 289
+extubatie, 256
+fagocytose, 258
+fase-0-onderzoek, 242
+fase-0-studie, 242
+fase-1-onderzoek, 243
+fase-1-studie, 243
+fase-2-onderzoek, 244
+fase-2-studie, 244
+fase-3-onderzoek, 245
+fase-3-studie, 245
+fase-4-onderzoek, 246
+fase-4-studie, 246
+fase-I-onderzoek, 243
+fase-I-studie, 243
+fase-II-onderzoek, 244
+fase-II-studie, 244
+fase-III-onderzoek, 245
+fase-III-studie, 245
+fase-IV-onderzoek, 246
+fase-IV-studie, 246
+favipiravir, 271
+fenofibraat, 274
+ferritine, 275
+FFP-masker, 409
+FFP-mond-neuskapje, 409
+FFP-mond-neusmasker, 409
+FFP-mondkapje, 409
+FFP-mondmasker, 409
+fibrinogeen, 276
+fibrose, 277
+filtrerend halfmasker, 409
+filtrerend masker, 409
+fingolimod, 278
+fomiet, 281
+fout negatief resultaat, 262
+fout positief resultaat, 263
+foutnegatief resultaat, 262
+foutpositief resultaat, 263
+fysieke afstand, 190
+galidesivir, 283
+immunisatiegraad, 121
+immuniteit, 331
+immuniteitsbewijs, 468
+immuniteitscertificaat, 468
+immuniteitspaspoort, 468
+immuniteitsreactie, 570
+immunochromatografie, 351
+immunogeen -gene, 352
+immunogeniciteit, 353
+immunogeniteit, 353
+immunoglobuline, 354
+immunoglobuline G, 355
+immunoglobuline M, 356
+immunologisch -e, 330, 358
+immunologisch geheugen, 421
+immuun -mune, 328, 330
+immuunglobuline, 354
+immuunglobuline G, 355
+immuunglobuline M, 356
+immuunrespons, 570
+in quarantaine, 534
+in quarantaine gaan, 533
+incidentie, 362
+incubatie, 364
+incubatieperiode, 478
+incubatietijd, 478
+indamfase, 265
+indexgeval, 101
+indirecte besmetting, 142
+indirecte transmissie, 142
+individuele beschermingsmiddelen, 223
+inenting, 712
+infectie, 367
+infectieduur, 479
+infectieketen, 86
+infectieperiode, 479
+infectietijd, 479
+infectiologie, 371
+infectiviteit, 144
+infiltraat, 372
+handgel, 289
+handhygiëne, 310
+handschoen, 304
+hemogram, 305
+heparine, 306
+hepatotoxiciteit, 307
+herbesmetting, 563
+herhaalvaccinatie, 573
+herinfectie, 563
+herinneringscel, 393
+herstel, 147
+herstelperiode, 642
+hervallen, 556
+hoest, 657
+hoeveelheid antigeen, 95
+hoeveelheid antigen, 95
+hoeveelheid virus, 96
+hoofdkapje, 105
+hoofdpijn, 109
+horizontale besmetting, 668
+horizontale overdracht, 668
+horizontale transmissie, 668
+horizontale verspreiding, 668
+huisbubbel, 73
+hydroalcoholische gel, 289
+hydroxychloroquine, 308
+hygiëne, 309
+hygiënemasker, 411
+hygiënisch masker, 411
+hygiënisch mondkapje, 411
+hygiënisch mondneuskapje, 411
+hypogeusie, 313
+hyposmie, 314
+hypoxemie, 316
+hypoxie, 317
+ibuprofen, 324
+IC, 680
+icatibant, 325
+imdevimab, 327
+immunisatiedekking, 121
+Índex neerlandès kunstmatige beademing, 568
+kunstmatige intelligentie, 377
+kunstmatige specifieke afweer, 340
+kunstmatige specifieke immuniteit, 340
+kweek, 165
+kweekstokje, 227
+kwetsbare risicogroep, 125
+lactaatdehydrogenase, 384
+lactodehydrogenase, 384
+lanadelumab, 385
+langdurige corona, 163
+latentie, 386
+latentieperiode, 478
+latentietijd, 478
+LDH, 384
+leed, 195
+leeftijdsdiscriminatie, 201
+lenzilumab, 388
+leronlimab, 389
+letaliteit, 634
+levenskwaliteit, 531
+levensondersteunende zorg, 626
+levensverwachting, 231
+levensverwachting in goede gezondheid, 232
+leverschade, 307
+lichte koorts, 273
+locale reactie, 552
+lockdown, 133
+lockdownexit, 172
+lockdownopheffing, 172
+lokale besmetting, 667
+lokale overdracht, 667
+lokale transmissie, 667
+lokale verspreiding, 667
+longembolie, 209
+longontsteking, 495
+lopinavir, 398
+luchtpijpsnede, 672
+luchtpijpvertakking, 79
+luchtverversing, 724
+inflammatie, 373
+infodemie, 374
+injectieplaats, 529
+inperkingsfase, 265
+inperkingsmaatregel, 425
+insomnie, 376
+intensieve zorg, 680
+intensieve zorgen, 680
+intensievezorgafdeling, 680
+intensive care, 680
+intensivecareafdeling, 680
+interessante variant, 716
+interferon, 378
+interferon ß, 379
+interferon bèta, 379
+interferon-ß, 379
+interferon-bèta, 379
+intubatie, 380
+isolatie, 14
+Janssen, 701
+Janssen-vaccin, 701
+keelafname, 435
+keelswab, 435
+keeluitstrijkje, 435
+keelwisser, 435
+KI, 377
+kleine hoefijzerneus, 546
+kleine hoefijzerneusvleermuis, 546
+kleine luchtweg, 80
+klinisch onderzoek, 49, 237
+klinische proef, 49, 237
+klinische studie, 49, 237
+klinische verschijnselen, 117
+koorts, 272
+koortsmiddel, 30
+koortsverlagend middel, 30
+koortswerend middel, 30
+kortademigheid, 188
+krachteloosheid, 53
+kriebelhoest, 659
+mondkapje, 406
+mondmasker, 406
+mondneuskapje, 406
+mondneusmasker, 406
+monitoring, 429
+montelukast, 430
+mortaliteit, 432, 635
+mRNA, 577
+mRNA-vaccin, 698
+multimorbiditeit, 129
+mupadolimab, 438
+mutatie, 441
+myalgie, 427
+nachtklok, 655
+nafamostat, 442
+nalaten van behandeling, 446
+nasale congestie, 135
+nasofaringeaal aspiraat, 434
+nasofaringeaal uitstrijkje, 434
+nasofarynxswab, 434
+nasofarynxwisser, 434
+natte hoest, 658
+natuurlijke afweer, 349
+natuurlijke immuniteit, 347
+natuurlijke specifieke afweer, 343
+natuurlijke specifieke immuniteit, 343
+nausea, 443
+nauw contact, 138
+naverschijnsel, 593
+negatief geval, 100
+nepmedicijn, 493
+neppil, 493
+netelroos, 682
+neusafname, 434
+neusbril, 678
+neuscongestie, 135
+neusswab, 434
+neusuitstrijkje, 434
+neusverstopping, 135
+neuswisser, 434
+luchtwegverwijder, 78
+lymfecel, 391
+lymfocyt, 391
+lymfocytopenie, 396
+lymfopenie, 396
+macrofaag, 399
+masker, 406, 407
+massaal testen, 652
+massale test, 652
+mechanische beademing, 568
+medelevend gebruik, 683
+MEDI3506, 418
+medisch dossier, 318
+medisch ontslag, 18
+medisch uitrusten, 419
+medisch zinloos behandelen, 450
+medische evaluatie, 420
+medische expertise, 483
+medische noodsituatie, 210
+melkzuurdehydrogenase, 384
+mengmonster, 519
+mentale uitputting, 269
+mentale vermoeidheid, 269
+meplazumab, 422
+MERS, 613
+MERS-coronavirus, 154
+MERS-CoV, 154
+MERS-CoV-infectie, 613
+MERS-virus, 154
+messenger-RNA, 577
+messenger-RNA-vaccin, 698
+met medische voorzieningen uitrusten, 419
+methylprednisolon, 426
+Midden-Oosten ademhalingssyndroom, 613
+Midden-Oosten respiratoir syndroom, 613
+misselijkheid, 443
+mitigatiefase, 266
+Moderna-vaccin, 205
+mogelijk geval, 103
+molnupiravir, 428
+Índex neerlandès passieve specifieke immuniteit, 345
+pathogeen -gene, 470
+pathogeniteit, 471
+patiënt nul | patiënte nul, 101
+patiëntendossier, 318
+PBM, 223
+PCR, 521, 550
+PCR-test, 521
+peilgroep, 499
+peilpopulatie, 499
+pemziviptadil, 475
+peplomeer, 233
+permanente arbeidsongeschiktheid, 360
+permanente invaliditeit, 360
+permanente ongeschiktheid, 360
+perniones, 476
+perniosis, 476
+persoonlijke beschermingsmiddelen, 223
+piekeiwit, 233
+pijn op de borst, 196
+pijnstiller, 23
+plaatselijke lockdown, 134
+plaatselijke reactie, 552
+placebo, 493
+plitidepsin, 494
+pneumonie, 495
+polymerasekettingreactie, 550
+positief geval, 99
+postcoronasyndroom, 163
+prednisolon, 502
+preklinisch onderzoek, 248
+preklinische proef, 248
+preklinische studie, 248
+prevalentie, 503
+preventieafdeling, 601
+preventiedienst, 601
+preventief vaccinn, 707
+preventieverantwoordelijke, 171
+prikkelhoest, 659
+primair vaccinfalen, 260
+niet-medisch masker, 411
+niet-productieve hoest, 659
+nieuwe corona-uitbraak, 554
+nieuwe normaal, 448
+nieuwe uitbraak, 554
+nieuwe virusuitbraak, 554
+noodplan, 492
+noodsituatie op gezondheidsgebied, 210
+noodtoestand, 236
+nosocomiale infectie, 368
+NovaVax-vaccin, 449
+NOW-regeling, 252
+NVX-CoV2373, 449
+omvorming tot sanitaire ruimte, 583
+ongeschiktheid, 359
+ongewenst voorval, 228
+onrechtstreekse besmetting, 142
+onrechtstreekse transmissie, 142
+onregelmatige hartslag, 41
+onststeking, 373
+onthouding van behandeling, 446
+ontslag, 18
+ontslag uit het ziekenhuis, 18
+ontsmettingsmiddel, 176
+ontstekingsmarker, 404
+OP-101, 455
+opaganib, 456
+orofarynxswab, 435
+oseltamivir, 458
+otilimab, 459
+overdraagbaar -are, 665
+overdracht, 666
+overgeven, 737
+overlaars, 500
+overschoen, 500
+oversprong, 579
+oversterfte, 250
+pandemie, 463
+parasiet, 466
+passieve specifieke afweer, 345
+ribonucleïnezuur, 4
+risicofactor, 257
+risicogroep, 125, 303
+risicopatiënt | risicopatiënte, 486
+ritonavir, 575
+RNA, 4
+rouw, 195
+rouwzorg, 54
+ruxolitinib, 578
+sarilumab, 584
+SARS, 612
+SARS-coronavirus, 155
+SARS-coronavirus-2, 153
+SARS-CoV, 155
+SARS-CoV-2, 153
+SARS-CoV-2-coronavirus, 153
+SARS-CoV-2-virus, 153
+SARS-virus, 155
+schijngeneesmiddel, 493
+schoenbeschermer, 500
+schoenhoes, 500
+schoenovertrek, 500
+schubdier, 464
+screening, 164
+secundair vaccinfalen, 261
+sedatie, 589
+seizoengebondenheid, 234
+seizoengevoeligheid, 234
+seizoensgebondenheid, 234
+seizoensgevoeligheid, 234
+selinexor, 590
+semiologie, 605
+sepsis, 592
+serologie, 594
+serologische test, 526
+seroprevalentie, 595
+serotherapie, 596
+serotype, 597
+serovar, 597
+serumprevalentie, 595
+primaire immunisatie, 504
+primaire vaccinatie, 504
+primer, 214
+primovaccinatie, 504
+principe van niet schaden, 506
+principe van weldoen, 505
+prioritering, 508
+probe, 617
+prodromaal verschijnsel, 509
+prodroom, 509
+productieve hoest, 658
+profylactisch vaccin, 707
+profylaxe, 309
+profylaxis, 309
+protrombinetijd, 640
+PT, 640
+quarantaine, 532
+R-waarde, 633
+radiografie, 537
+radiomics, 538
+radiomics-beeldanalyse, 538
+rapamicine, 614
+ravulizumab, 548
+re-infectie, 563
+rechtstreekse besmetting, 140
+rechtstreekse transmissie, 140
+recidief, 559
+recidieve, 559
+recrudescentie, 560
+regdanvimab, 561
+relaps, 556
+remdesivir, 564
+reproductiecijfer, 633
+reproductiegetal, 633
+reservoir, 567
+respiratoir syndroom van het Midden-Oosten, 613
+retrovirus, 571
+reukverlies, 24
+revaccinatie, 573
+ribavirine, 574
+Índex neerlandès T-cel, 394
+T-helpercel, 394
+T-lymfocyt, 394
+tachycardie, 630
+Tamiflu, 458
+telegeneeskunde, 636
+telewerk, 637
+tenofovir, 643
+terugval, 556
+thalidomide, 628
+therapeutische hardnekkigheid, 450
+therapeutische onthouding, 446
+therapeutische verbetenheid, 450
+thuisbubbel, 73
+thuisverpleging, 55
+thuiswerken, 637
+thuiszorg, 55
+tijdelijke arbeidsongeschiktheid, 361
+tijdelijke invaliditeit, 361
+tijdelijke noodmaatregel overbrugging voor behoud van werkgelegenheid (NOW), 252
+tijdelijke ongeschiktheid, 361
+tijdelijke werkloosheidsregeling wegens overmacht, 252
+tixagevimab, 654
+tocilizumab, 656
+toedieningswijze, 726
+tozinameran, 661
+tozinameran-vaccin, 661
+traceerbaarheid, 662
+tracheotomie, 670
+transmissie, 666
+triage, 508
+trippelblind klinisch onderzoek, 48
+trippelblinde klinische proef, 48
+trippelblinde klinische studie, 48
+trombose, 674
+trombus, 673
+TRV027, 676
+tussengastheer, 321
+shock, 739
+shocklong, 609
+siltuximab, 603
+Sinovac-vaccin, 709
+sirolimus, 614
+slapeloosheid, 376
+slijmhoest, 658
+smaakverlies, 12
+sneltest, 517, 525
+sociale afstand, 190
+sociale bubbel, 72
+socialisatie, 616
+sotrovimab, 619
+specifieke afweer, 333
+specifieke immuniteit, 333
+spierpijn, 427
+spike-eiwit, 233, 515
+Spikevax, 205
+Spikevax-vaccin, 205
+Spoetnik V-vaccin, 284
+Spoetnikvaccin, 284
+Sputnik, 284
+Sputnik V, 284
+Sputnik V-vaccin, 284
+Sputnik-vaccin, 284
+stam, 615
+stekeleiwit, 233, 515
+sterfte, 634
+sterftecijfer, 432, 635
+structureel eiwit, 514
+structureel proteïne, 514
+subasumstat, 623
+superbesmetter, 624
+superverspreider -ster, 624
+swab, 227
+symptomatologie, 605
+symptoom, 604
+syndemie, 607
+systeemreactie, 551
+systemische reactie, 551
+verminderd smaakvermogen, 313
+verminderde reuk, 314
+verminderde reukzin, 314
+verminderde smaak, 313
+vermoeidheid, 268
+vernevelaar, 445
+verneveling, 444
+Vero Cell-vaccin, 710
+verspreiding, 666
+verstopte neus, 135
+verticale besmetting, 669
+verticale overdracht, 669
+verticale transmissie, 669
+verticale verspreiding, 669
+verworven afweer, 333
+verworven immuniteit, 333
+verzamelmonster, 519
+vidofludimus, 727
+viraal vaccin, 711
+virale variant, 715
+viricide, 728
+virion, 729
+virulentie, 730
+virus, 731
+virus SARS-CoV-2, 153
+virusdeeltje, 729
+virusdodend geneesmiddel, 728
+virusdodend middel, 728
+virushoeveelheid, 96
+virusisolaat, 16
+viruslading, 96
+virusuitbraak, 83
+virusvaccin, 711
+vleermuis, 544
+VOC, 718
+VOI, 716
+volksgezondheid, 582
+vomeren, 737
+vomitus, 737
+voorloper, 509
+uitbanning, 225
+uitbraak, 83
+uitgaansverbod, 655
+uitputting, 268
+uitstrijkje, 282
+umifenovir, 679
+urticaria, 682
+vaccin, 687
+vaccinatie, 712
+vaccinatiebewijs, 468
+vaccinatiecertificaat, 468
+vaccinatiedekking, 121
+vaccinatiegraad, 121
+vaccinatiepaspoort, 468
+vaccinatieprogramma, 472
+vaccinatieschema, 472
+vaccindoeltreffendheid, 202
+vaccineffectiviteit, 202
+vaccinefficiëntie, 204
+vaccinfalen, 259
+vaccinwerkzaamheid, 203
+vafidemstat, 714
+vals negatief resultaat, 262
+vals positief resultaat, 263
+valsnegatief resultaat, 262
+valspositief resultaat, 263
+variant, 715
+variant van belang, 716
+vatbaar -are, 627
+vectorvaccin, 711
+veilige afstand, 190
+ventilatie, 724
+verbindweefseling, 277
+verdacht geval, 103
+verdelende recchtvbaardigheid, 383
+verdriet, 195
+verkregen afweer, 333
+verkregen immuniteit, 333
+vermaatschappelijking, 616
+verminderd reukvermogen, 314
+Índex neerlandès ziekenhuisverpleging, 56
+ziekenhuiszorg, 56
+ziektesymptoom, 604
+ziekteverschijnsel, 604
+ziekteverwekkend -e, 470
+ziekteverwekkend vermogen, 471
+zilucoplan, 740
+zoönose, 741
+zoönotisch -e, 742
+zorecimeran, 694
+zorgautoriteit, 62
+zorgelijke variant, 718
+zorgwekkende variant, 718
+zuurstofbehandeling, 461
+zuurstofbril, 678
+zuurstoftherapie, 461
+zuurstoftoediening, 460
+voorzorgsbeginsel, 507
+vorapaxar, 738
+vroegtijdige opsporing, 179
+waardig sterven, 431
+waardige dood, 431
+waarschijnlijk geval, 103
+wattenstaafje, 227
+Wereldgezondheidsorganisatie, 457
+werkzaamheid van een vaccin, 203
+WGO, 457
+winterhanden, 476
+wintertenen, 476
+wintervoeten, 476
+wisser, 227
+zelfbemonstering, 61
+zelftest, 61
+ziekenhuisinfectie, 368

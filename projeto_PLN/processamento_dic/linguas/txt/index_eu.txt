@@ -1,0 +1,607 @@
+arnasketa lagundu, 568
+arnasketa mekaniko, 568
+arrisku-faktore, 257
+arrisku-talde, 303
+arrisku-talde zaurgarri, 125
+arritmia, 41
+ASAL, 612
+ASALen koronabirus 2, 153
+ASC09F, 43
+asintomatiko, 44
+astenia, 53
+0. fase, 242
+0. faseko saiakuntza, 242
+AA, 377
+ABE, 361
+ABEEE, 252
+abiarazle, 214
+abiptadil, 63
+Ad5-nCoV, 692
+ADG20, 8
+adimen artifizial, 377
+adinkeria, 201
+AEBI, 375
+AEBren inhibitzaile, 375
+aerosol, 10
+agente biologiko, 11
+agerraldi epidemiko, 83
+ageusia, 12
+ahalegin terapeutikoa egokitze, 7
+ahalegin terapeutikoa mugatze, 7
+aireztapen, 724
+aitzinamendu-antsietate, 25
+aitzinamendu-herstura, 25
+akalabrutinib, 2
+akidura mental, 269
+alarma-egoera, 236
+aldaera, 715
+aldaera kezkagarri, 718
+aldi baterako enplegu-erregulazioko espediente, 252
+aldi baterako ezintasun, 361
+alfa alunazedasa, 19
+alfa konestat, 132
+AMY-101, 21
+anakinra, 22
+analgesiko, 23
+anbroxol, 20
+andui, 615
+birtxertaketa, 573
+birulentzia, 730
+birus, 731
+birus-andui isolatu, 16
+birus-bilgarri, 208
+birus-karga, 96
+birus-kontrako, 34
+birusen kontrako txerto, 711
+bitarteko ostalari, 321
+bizi-euskarri, 626
+bizi-euskarriko neurriak, 626
+bizi-itxaropen, 231
+bizi-kalitate, 531
+bizikidetza-burbuila, 73
+bizikidetza-burbuila zabaldu, 72
+BK, 531
+borapaxar, 738
+bozeprebir, 70
+brekinar, 75
+brensokatib, 74
+brinzidofobir, 76
+bromhexina, 77
+bronkio, 79
+bronkio-zabaltzaile, 78
+bronkiolitis, 81
+bronkiolo, 80
+budesonida, 84
+bularraldeko min, 196
+burbuila zabaldu, 72
+burbuila-talde, 299
+buruko min, 109
+CanSino txerto, 692
+CD24Fc, 107
+Comirnaty, 661
+Convidecia, 692
+CoronaVac, 709
+COVID-19, 161
+COVID-19 gaitz, 161
+COVID-19 iraunkor, 163
+COVID-19 txertoa, 688
+AstraZeneca, 690
+ATE, 7
+atibuklimab, 58
+ATM, 7
+ATYR1923, 59
+aurpegiko pantaila, 465
+autohantura, 60
+autoinflamazio, 60
+autolagin, 61
+azido desoxirribonukleiko, 3
+azido erribonukleiko, 4
+azido erribonukleiko mezulari, 577
+azitromizina, 64
+aztarnari, 542
+azterketa kliniko, 237
+azterketa prekliniko, 248
+B deshidrodidemnina, 494
+B linfozito, 392
+B zelula, 392
+bafidemstat, 714
+baheketa, 164
+bakartze, 14
+bamlanibimab, 65
+banaketa-justizia, 383
+barizitinib, 66
+BBIBP-CorV txerto, 691
+bebazizumab, 69
+beherako, 183
+bemzentinib, 68
+berragertze epidemiko, 554
+berrinfekzio, 563
+berriz gaixotze, 556
+berrogeialdi, 532
+berrogeialdian jarri, 533, 534
+beta interferon, 379
+bioetika-batzorde, 128
+birgaixotze, 556
+biriketako enbolia, 209
+birion, 729
+birizida, 728
+enpatoran, 217
+ensobibep, 218
+entzimei lotutako immunoadsortzioko saiakuntza, 219
+epidemia, 221
+epidemiologia, 222
+erabilera errukior, 683
+erantzun immunitario, 570
+errabulizumab, 548
+erradiografia, 537
+erradiomika, 538
+erreakzio lokal, 552
+erreakzio orokor, 551
+erreakzio sistemiko, 551
+erregdanbimab, 561
+erremdesibir, 564
+erreprodukzio-abiadura efektibo, 722
+erreprodukzio-abiadura enpiriko, 723
+erreserborio, 567
+erretrobirus, 571
+erretrobirus-kontrako, 31
+errezidiba, 559
+erribabirina, 574
+errinolofo txiki, 546
+erritonabir, 575
+errotik kentze, 225
+erruxolitinib, 578
+esku-hartze komunitarioko saiakuntza, 51
+eskuen higiene, 310
+eskularru, 304
+espezie ostalari, 320
+espezie-jauzi, 579
+espikula, 233
+estubazio, 256
+etesebimab, 249
+etxeko arreta, 55
+etxeratze-agindu, 655
+euste, 145
+euste-fase, 265
+euste-neurri, 425
+exudatu, 253
+COVID-19arekiko arrisku handiko pertsona, 486
+COVID-19arekiko pertsona zaurgarri, 486
+COVID-19aren aurreko kontingentzia-plan, 492
+COVID-19aren birus, 153
+CureVac txerto, 694
+CVnCoV, 694
+D dimero, 184
+danoprebir, 167
+darunabir, 168
+dastamen-hipoestesia, 313
+dazkapistat, 169
+defentsak, 170
+desgaitasun, 185
+desinfektatzaile, 176
+deskonfinamendu, 172
+detekzio goiztiar, 179
+dexametasona, 180
+diagnostiko, 182
+disfonia, 186
+disnea, 188
+DNA, 3
+dolu, 195
+dolu-arreta, 54
+ebakuntza-txano, 105
+egitura-proteina, 514
+EHAS, 613
+EI, 360
+Ekialde Hurbileko arnas sindrome, 613
+ekulizumab, 199
+ekzema, 200
+elasomeran, 205
+ELISA, 219
+ELISA bidezko proba diagnostiko, 526
+emapalumab, 207
+emateko bide, 726
+embododstat, 213
+emesi, 737
+emtrizitabina, 212
+endemia, 215
+enoxaparina, 216
+helburuko populazio, 497
+helduaren arnas distresaren sindrome, 609
+hemograma, 305
+heparina, 306
+hepatotoxikotasun, 307
+heriotza duin, 431
+heriotza-tasa, 635
+hidroxiklorokina, 308
+higiene, 309
+hilgarritasun-tasa, 634
+hilkortasun, 432
+hilkortasun-tasa, 635
+hipogeusia, 313
+hipoosmia, 314
+hipoxemia, 316
+hipoxia, 317
+historia kliniko, 318
+hurbileko kontaktu, 138
+I. fase, 243
+I. faseko saiakuntza, 243
+ibuprofeno, 324
+II. fase, 244
+II. faseko saiakuntza, 244
+III. fase, 245
+III. faseko saiakuntza, 245
+ikatibant, 325
+IM, 363
+imdebimab, 327
+immune, 328
+immunitario, 330
+immunitate, 331
+immunitate adaptatibo, 333
+immunitate aktibo, 332
+immunitate espezifiko, 333
+immunitate espezifiko artifizial, 340
+immunitate espezifiko natural, 343
+immunitate espezifiko pasibo, 345
+immunitate-pasaporte, 468
+immunitate-ziurtagiri, 468
+immunizazio, 349
+ezintasun, 359
+ezintasun iraunkor, 360
+eztul, 657
+eztul heze, 658
+eztul lehor, 659
+eztul produktibo, 658
+fabipirabir, 271
+fagozitosi, 258
+febrikula, 273
+fenofibrato, 274
+ferra-saguzar txiki, 546
+ferritina, 275
+FFP maskara, 409
+fibrinogeno, 276
+fibrosi, 277
+fingolimod, 278
+Flügge-ren tanta, 296
+fomite, 281
+frotis, 282
+G immunoglobulina, 355
+gailur epidemiko, 490
+galidesibir, 283
+Gam-COVID-Vac, 284
+Gamaleya txerto, 284
+gehiegizko hilkortasun, 250
+gel antiseptiko, 289
+gel desinfektatzaile, 289
+gel hidroalkoholiko, 289
+genoma, 291
+gertaera kaltegarri, 228
+gimsilumab, 292
+goflikizept, 293
+goragale, 443
+gorako, 737
+gordailu, 567
+HADS, 609
+hantura, 373
+hantura-markatzaile, 404
+hartutako immunitate, 333
+hasle, 214
+kasu baieztatu, 99
+kasu baztertu, 100
+kasu egiaztatu, 99
+kasu susmagarri, 103
+kate epidemiologiko, 86
+klazakizumab, 116
+klinika, 117
+klofazimina, 118
+klorokina, 119
+koagulopatia, 120
+kobizistat, 123
+koltxizina, 126
+komorbilitate, 129
+konfinamendu, 133
+konfinamendu perimetral, 134
+konfinamendua arintze, 173
+konglomeratu, 13
+konjuntibitis, 136
+kontaktu, 137
+kontaktu estu, 138
+kontaktuen aztarnari segitze, 541
+kontaktuen jarraipen, 541
+kontrol, 146
+kontzentrazio-falta, 264
+koronabirus, 152
+kotoi-txotx, 227
+kultibo, 165
+kurba apaldu, 36
+kurba epidemiko, 150
+kurba epidemiologiko, 150
+kutsakortasun, 144
+kutsapen, 139
+kutsatze-kate, 86
+kutsatze-kurba, 150
+kutsatze-tasa, 633
+lagin-taldekatze bidezko test, 519
+laktato deshidrogenasa, 384
+lan-osasun, 580
+lanadelumab, 385
+langarreztagailu, 445
+immunogeniko, 352
+immunogenikotasun, 353
+immunoglobulina, 354
+immunokromatografia, 351
+immunologiko, 358
+indize-kasu, 101
+infektologia, 371
+infekzio, 367
+infekzio-periodo, 479
+infiltratu, 372
+inflamazio, 373
+inflamazio-markatzaile, 404
+infodemia, 374
+injekzio-puntu, 529
+inkubazio, 364
+insomnio, 376
+intereseko aldaera, 716
+interferon, 378
+intubazio, 380
+intzidentzia, 362
+intzidentzia metatu, 363
+isolatu biral, 16
+isolatu biriko, 16
+itsu bikoitzeko saiakuntza, 47
+itsu hirukoitzeko saiakuntza, 48
+IV. fase, 246
+IV. faseko saiakuntza, 246
+jaioberriaren arnas distresaren sindrome, 610
+Janssen txerto, 701
+Johnson & Johnson txerto, 701
+kalterik ez egiteko printzipio, 506
+kamostat, 87
+kamrelizumab, 88
+kanakinumab, 90
+kapside, 92
+karga antigeniko, 95
+karga biriko, 96
+kasete, 106
+kasiribimab, 104
+kasu, 98
+mutazio, 441
+nafamostat, 442
+NBE, 223
+NBE maskara, 409
+negatibo faltsu, 262
+neke, 268
+neke pandemiko, 270
+norbera babesteko ekipamendu, 223
+normaltasun berri, 448
+NovaVax txerto, 449
+NVX-CoV2373, 449
+oinarrizko erreprodukzio-zenbaki, 721
+oinetako babes, 500
+olatu, 454
+olatu epidemiko, 454
+ondorio, 593
+ongintza, 505
+ongintza-printzipio, 505
+OP-101, 455
+opaganib, 456
+orofaringeko lagin, 435
+oroimen immunitario, 421
+oroimen immunologiko, 421
+oroimen-linfozito, 393
+oroimen-zelula, 393
+oroitzapen-dosi, 197
+osasun publiko, 582
+osasun-agintaritza, 62
+osasun-egoera oneko bizi-itxaropen, 232
+osasun-larrialdi, 210
+oseltamibir, 458
+ospel, 476
+ospitale-infekzio, 368
+ospitaleko arreta, 56
+ostalari, 320
+otilimab, 459
+Oxford-AstraZeneca, 690
+oxigenazio, 460
+oxigenoterapia, 461
+pandemia, 463
+langarreztapen, 444
+larri, 298
+larriagotze, 560
+latentzia, 386
+latentzia-periodo, 478
+LDH, 384
+lehen mailako arreta, 57
+lehenespen, 508
+lenzilumab, 388
+leronlimab, 389
+linfopenia, 396
+linfozito, 391
+linfozitopenia, 396
+lopinabir, 398
+lurrunaren kontrako gamuza, 660
+M immunoglobulina, 356
+makrofago, 399
+maskara, 406, 407
+maskara autoiragazle, 409
+maskara higieniko, 411
+maskara kirurgiko, 413
+maskara mediko, 413
+MEDI 3506, 418
+medikalizatu, 419
+medikuaren alta, 18
+medikuntza ebaluatzaile, 420
+meplazumab, 422
+MERS, 613
+MERS-CoV, 154
+MERSi lotutako koronabirus, 154
+metilprednisolona, 426
+mialgia, 427
+Moderna txerto, 205
+MOE, 457
+molnupirabir, 428
+monitorizazio, 429
+montelukast, 430
+mordo, 13
+Munduko Osasun Erakundea, 457
+mupadolimab, 438
+sanitarizazio, 583
+sarilumab, 584
+SARS, 612
+SARS-CoV, 155
+SARS-CoV-2, 153
+SARS-CoV-2k eragindako arnas gaixotasun, 161
+SARSi lotutako koronabirus, 155
+sedazio, 589
+segurtasun-tarte, 190
+segurtasuneko urruntze, 192
+sekuela, 593
+selinexor, 590
+semiologia, 605
+sentikor, 627
+sepsi, 592
+serologia, 594
+seroprebalentzia, 595
+seroterapia, 596
+serotipo, 597
+shock, 739
+siltuximab, 603
+sindemia, 607
+Sinovac txerto, 709
+sintoma, 604
+sintomarik gabeko, 44
+sirolimus, 614
+SKA, 45
+sortzetiko immunitate, 347
+sotrobimab, 619
+sozializazio, 616
+spike proteina, 515
+Spikevax, 205
+Sputnik, 284
+subasumstat, 623
+sudur-faringeetako lagin, 434
+sudur-kanula, 678
+sudurreko kongestio, 135
+sukar, 272
+sukar-kontrako, 30
+superkutsatzaile, 624
+pangolin, 464
+parasito, 466
+partikula-iragazkidun maskara, 409
+patogeno, 470
+patogenotasun, 471
+PCR, 550
+PCR bidezko proba diagnostiko, 521
+PCR proba, 521
+pemzibiptadil, 475
+peritutza mediko, 483
+Pfizer/BioNTech txerto, 661
+plazebo, 493
+plitidepsina, 494
+pneumonia, 495
+polimerasaren kate-erreakzio, 550
+pooling, 519
+populazio zelatari, 499
+positibo faltsu, 263
+prebalentzia, 503
+prebentzio-txerto, 707
+prebentzio-zerbitzu, 601
+prebentzioko ordezkari, 171
+prednisolona, 502
+prodromo, 509
+proteina C-erreaktibo, 511
+protronbina-denbora, 640
+Quick-en denbora, 640
+R0 zenbaki, 721
+RNA, 4
+RNA mezulari, 577
+RNAm, 577
+RNAm-n oinarritutako txerto, 698
+RNAm-txerto, 698
+S proteina, 515
+saguzar, 544
+saiakuntza ausazkotu, 45
+saiakuntza itsu, 46
+saiakuntza kliniko, 49
+saiakuntza kliniko ausazkotu, 45
+saiakuntza komunitario, 51
+txerto antibiriko, 711
+txerto profilaktiko, 707
+txertoak eragindako ondorio kaltegarri, 549
+txertoaren hutsegite, 259
+txertoaren hutsegite primario, 260
+txertoaren hutsegite sekundario, 261
+txertoen efektibitate, 202
+txertoen efikazia, 203
+txertoen efizientzia, 204
+umifenobir, 679
+urruntze fisiko, 192
+urtarokotasun, 234
+urtikaria, 682
+usaimen-hipoestesia, 314
+Vaxzevria, 690
+VeroCell txerto, 710
+vidofludimus, 727
+VOC, 718
+VOI, 716
+Wuhan txerto, 710
+zainketa intentsiboetako unitate, 680
+zefalalgia, 109
+zefalea, 109
+zeharkako kutsapen, 142
+zeinu, 602
+zenikribirok, 112
+zibeta, 115
+ziklesonida, 113
+zilukoplan, 740
+zitokina, 114
+zitokina-ekaitz, 638
+ZIU, 680
+zoonosi, 741
+zoonotiko, 742
+zorabio, 405
+zorezimeran, 694
+zuhurtasun-printzipio, 507
+zunda, 617
+zunda molekular, 617
+zuzeneko kutsapen, 140
+susperraldi, 147
+suspertze-denbora, 642
+T linfozito, 394
+T zelula, 394
+takikardia, 630
+talde-immunitate, 338
+talidomida, 628
+tantatxo bidezko infekzio, 370
+telelan, 637
+telemedikuntza, 636
+tematze terapeutiko, 450
+tenofobir, 643
+test azkar, 525
+test laster, 525
+test serologiko, 526
+testatze masibo, 652
+tixagebimab, 654
+TOK, 549
+tozilizumab, 656
+tozinameran, 661
+trakeotomia, 670
+transmisio, 666
+transmisio bertikal, 669
+transmisio horizontal, 668
+transmisio komunitario, 667
+transmitigarri, 665
+tratamendu anbulatorio, 664
+tratamendua ez emate, 446
+trazabilitate, 662
+triaje, 672
+tronbo, 673
+tronbosi, 674
+TRV027, 676
+txano, 105
+txertaketa, 712
+txertaketa primario, 504
+txertaketa-estaldura, 121
+txertaketa-pauta, 472
+txerto, 687
+txerto antibiral, 711
